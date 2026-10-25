@@ -21,46 +21,61 @@
 
 ---
 
-<!-- ================ RESEARCH MODEL: ALL 4 MODES EDITABLE ================ -->
-## 01 / Research · Interactive model
+<!-- ================ RESEARCH CONCEPT MAP: EDIT assets/research-concept-map.svg ================ -->
+## 01 / Research · Animated concept map
 
 <div align="center">
-  <img src="assets/research-cycle.gif" width="100%" alt="Four-state animated research visualization showing AI, ML, NLP and Data Science pipelines" />
+  <img src="assets/research-concept-map.svg" width="100%" alt="Animated conceptual neural-network flow: Machine Learning, Artificial Intelligence, Natural Language Processing, Big Data, and Data Science; connected stages and pulsing nodes." />
+  <sub>Five rotating research modes · flowing signal paths · four stages and twelve nodes · conceptual visualization, not live model inference.</sub>
 </div>
 
-GitHub README files do not run custom JavaScript. This panel **cycles automatically** through four topics; open any individual mode below for a detailed model view. It is a conceptual pipeline visualization, not a deployed neural-network inference system.
+The concept map uses **SVG animation without JavaScript**, with an always-visible connected-node flow inspired by the earlier reference. GitHub profile READMEs cannot run interactive React or JavaScript tabs, so use the expanding panels below to view a specific subject on demand.
 
 <details>
-<summary><b>01 · Artificial Intelligence — Data → Represent → Reason → Impact</b></summary>
-<br/>
-<img src="assets/model-ai.png" alt="Artificial intelligence conceptual pipeline" width="100%" />
+<summary><b>01 · Machine Learning — Input → Features → Model → Insight</b></summary>
 
-Applied AI, intelligent systems, reasoning, evaluation and responsible development.
+<img src="assets/model-ml.png" width="100%" alt="Machine learning individual four-stage research diagram" />
+
+Experimentation, pattern discovery, evaluation, prediction, and explainability.
 </details>
 
 <details>
-<summary><b>02 · Machine Learning — Input → Features → Model → Insight</b></summary>
-<br/>
-<img src="assets/model-ml.png" alt="Machine learning conceptual pipeline" width="100%" />
+<summary><b>02 · Artificial Intelligence — Data → Represent → Reason → Impact</b></summary>
 
-Dataset design, predictive models, experimentation and interpretable results.
+<img src="assets/model-ai.png" width="100%" alt="Artificial intelligence individual four-stage research diagram" />
+
+Applied intelligence, reasoning, human-centered AI and responsible systems.
 </details>
 
 <details>
-<summary><b>03 · Natural Language Processing — Text → Tokens → Context → Meaning</b></summary>
-<br/>
-<img src="assets/model-nlp.png" alt="Natural language processing conceptual pipeline" width="100%" />
+<summary><b>03 · Language & NLP — Text → Tokens → Context → Meaning</b></summary>
 
-Language models, multilingual and low-resource NLP, information retrieval and RAG.
+<img src="assets/model-nlp.png" width="100%" alt="Natural language processing individual four-stage research diagram" />
+
+Text understanding, multilingual NLP, information retrieval, transformers and RAG.
 </details>
 
 <details>
-<summary><b>04 · Data Science — Collect → Clean → Analyse → Impact</b></summary>
-<br/>
-<img src="assets/model-ds.png" alt="Data science conceptual pipeline" width="100%" />
+<summary><b>04 · Big Data — Ingest → Store → Process → Insight</b></summary>
 
-Turning evidence into explainable findings, useful visuals and practical decisions.
+Data engineering at scale: structured/unstructured sources, distributed storage, batch/stream processing, quality checks, and analysis. The five-mode animated concept map above includes this Big Data flow.
 </details>
+
+<details>
+<summary><b>05 · Data Science — Collect → Clean → Analyse → Impact</b></summary>
+
+<img src="assets/model-ds.png" width="100%" alt="Data science individual four-stage research diagram" />
+
+Statistical inquiry, feature analysis, useful visualizations and reproducible evidence.
+</details>
+
+<details>
+<summary><b>Previous research cycle · optional archive</b></summary>
+
+<img src="assets/research-cycle.gif" width="100%" alt="Original four-mode research animation" />
+</details>
+
+**[Edit research content](https://github.com/EMON-721/EMON-721/edit/main/README.md)** · **[Manage animation source](https://github.com/EMON-721/EMON-721/blob/main/assets/research-concept-map.svg)**
 
 ---
 
@@ -112,7 +127,7 @@ I'm interested in **Artificial Intelligence**, **Natural Language Processing**, 
 | --- | --- |
 | Artificial Intelligence · Machine Learning | Full-stack intelligent applications |
 | NLP · Language models · Retrieval / RAG | Human-centered interfaces and systems |
-| Data Science · Analysis · Visualization | Research methods and reproducible evaluation |
+| Data Science · Big Data · Analysis · Visualization | Research methods and reproducible evaluation |
 | Deep Learning · Responsible AI | AI for education and sustainability |
 
 **Currently working on:** Integrated learning platforms, study-planning tools, financial planning systems, research-oriented software, and exploring AI/NLP projects using openly available datasets.
@@ -209,7 +224,7 @@ To add one, duplicate any project card in this section, add a new `assets/projec
 <!-- ================ VERIFIED PUBLICATIONS: NO INVENTED CITATIONS ================ -->
 ## 06 / Research & publications
 
-**Areas:** AI, NLP, Data Science, applied intelligent systems and AI for sustainability.
+**Areas:** AI, Machine Learning, NLP, Big Data, Data Science, applied intelligent systems and AI for sustainability.
 
 Research-paper metadata should be added here only after checking the official title, authorship, venue and DOI. This prevents inaccurate publication claims.
 
