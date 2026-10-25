@@ -88,25 +88,27 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 ---
 
 <!-- ================ ABOUT / EDUCATION / RESEARCH: EDITABLE ================ -->
-## 02 / About me · Education · Research background
+## 02 / About Me · Education · Research Background
 
-<table><tr><td valign="top" width="33%">
+<img src="assets/strengths-animation.svg" width="100%" alt="Animated strengths: creativity, research, continuous learning, experimentation and impact"/>
+
+<table><tr><td width="33%" valign="top">
 <h3>About Me</h3>
-<p>I'm <b>Emon Hossain</b>, a <b>CST student</b> working on ideas and projects involving Artificial Intelligence, Machine Learning, Natural Language Processing and Data Science.</p>
-<p>I learn through research, experimentation and practical problem solving.</p>
-<sub>Problem Solver · Research-Oriented · Continuous Learner</sub>
-</td><td valign="top" width="34%">
+<p>I'm <b>Emon Hossain</b>, a <b>Computer Science &amp; Engineering (CSE) student</b>. My interests and academic work focus primarily on <b>Artificial Intelligence, Machine Learning, Natural Language Processing and Data Science</b>.</p>
+<p>I enjoy exploring research problems, testing ideas, working with data and building intelligent solutions. I completed a software engineering coursework project, but software development is not my primary specialization.</p>
+<p><sub>Creativity · Research-oriented · Continuous learner · Impact-driven</sub></p>
+<p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Strength</a></p>
+</td><td width="34%" valign="top">
 <h3>Education</h3>
-<p><b>B.Sc. in Computer Science &amp; Engineering</b><br/>University of Liberal Arts Bangladesh (ULAB), Dhaka.</p>
-<p><b>In progress</b> · Computing, AI/ML, language and data-focused work.</p>
-<sub>Research Focused · Real-world Learning</sub>
-</td><td valign="top" width="33%">
+<a href="https://ulab.edu.bd"><img src="assets/ulab-education.svg" width="100%" alt="ULAB academic nameplate and CSE education emblem"/></a>
+<p><b>B.Sc. in Computer Science &amp; Engineering</b><br/>University of Liberal Arts Bangladesh (ULAB)<br/>Dhaka, Bangladesh · <b>In progress</b></p>
+<p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Update · ＋ Add Education</a></p>
+</td><td width="33%" valign="top">
 <h3>Research Background</h3>
-<p>Interested in applied AI, language technology, information retrieval, data analysis and reproducible experiments using public datasets.</p>
-<p>Exploring intelligent systems and sustainability-related data questions.</p>
-<a href="#06--research--publications">Research &amp; Publications ↗</a>
+<p>My research interests involve how machines learn patterns from data, how language models process information, and how datasets can support reproducible experiments and useful decisions.</p>
+<p>Core directions: <b>AI/ML model evaluation, NLP and retrieval/RAG, multilingual language processing, exploratory Data Science, responsible AI</b> and sustainability-related datasets.</p>
+<p><a href="#06--research--publications">Research and publications ↗</a></p>
 </td></tr></table>
-
 
 ---
 
