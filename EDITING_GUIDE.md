@@ -46,6 +46,6 @@ No unverified publication counts, fabricated stars, follower figures, private se
 
 ## Vocab Station (25 October 2026)
 - Newly added `EMON-721/vocab-station` to the Featured Projects section.
-- Copied its original `public/logo.svg` unchanged to `assets/repos/vocab-station-logo.svg` in the public profile, and reused `assets/research-process.svg` for animation. No new image was generated.
+- Vocab Station now matches the exact size, grid, spacing, text styling and animation behavior of the other Featured Repository cards. Its original repository VS logo is embedded as existing vector paths in `assets/repos/vocab-station.svg`, using the existing SVG template (no image-generation tool used).
 - The repository is private. Its link requires authorization. No code or user data was copied.
-- The `＋ Add New Project` card remains available for future additions.
+- The `＋ Add New Project` card remains in the same two-column layout alongside Vocab Station.
