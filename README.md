@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td width="72%" valign="middle"><img src="assets/hero-research.svg" width="100%" alt="Animated AI research hero banner for Emon Hossain: ideas, data, models, people and impact"/></td>
-<td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-2026.jpg" width="190" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · CSE Student · Dhaka, Bangladesh</sub></p></td>
+<td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-clear-2026.jpg" width="190" alt="Clear high-resolution real portrait of Emon Hossain wearing a black blazer and white shirt"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · CSE Student · Dhaka, Bangladesh</sub></p></td>
 </tr>
 </table>
 
