@@ -174,7 +174,17 @@ Connected GitHub access currently confirms <b>7 repositories (2 public and 5 pri
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project card for Emon's MS Journey"/></a><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Master's application research and personal milestone tracking.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project card for GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>Animated profile presentation and research concept map.</p></td></tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/EMON-721/vocab-station"><img src="assets/repos/vocab-station.svg" width="100%" alt="Animated project card for Vocab Station using its existing original logo"/></a><p><b><a href="https://github.com/EMON-721/vocab-station">Vocab Station</a></b> · <sub>Private</sub></p><p>English vocabulary learning, daily practice, mock tests, revision and progress tracking.</p></td>
+<td width="50%" valign="top">
+<p><sub>LOCAL ON-DEMAND SERVICES · SERVICE DISCOVERY</sub></p>
+<h3>🛠️ Local Service</h3>
+<p>Local service discovery and booking website project — helping customers find service categories, local professionals and request services such as home cleaning.</p>
+<p><sub>Project entry · Repository link not yet verified</sub></p>
+<p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Add verified repository link / existing logo</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top"><h3>＋ Add New Project</h3><p>Add another public repository, verified coursework project, research experiment or new application when available.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add · ✎ Edit · ↕ Reorder</a></td>
+<td width="50%" valign="top"><h3>Future Project Slot</h3><p>Additional verified projects can be added here without modifying existing animation or cards.</p></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><h3>Software Engineering Coursework</h3><p>I have completed a software-engineering coursework project. Its repository title and details can be added when verified.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add Coursework Details</a></td>

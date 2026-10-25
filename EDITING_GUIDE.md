@@ -49,3 +49,8 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Vocab Station now matches the exact size, grid, spacing, text styling and animation behavior of the other Featured Repository cards. Its original repository VS logo is embedded as existing vector paths in `assets/repos/vocab-station.svg`, using the existing SVG template (no image-generation tool used).
 - The repository is private. Its link requires authorization. No code or user data was copied.
 - The `＋ Add New Project` card remains in the same two-column layout alongside Vocab Station.
+
+## Local Service featured project (25 October 2026)
+- Added **Local Service**, a previously discussed local on-demand service booking/discovery project, beside Vocab Station.
+- A matching `EMON-721` GitHub repository is not currently accessible or verified; the card therefore includes no unverified repo URL, publication status or stats. It does not increase the seven verified-repository count.
+- No images were generated or altered. The same two-column table and all existing research/project animations are preserved. Add a verified original project cover/logo later if available.
