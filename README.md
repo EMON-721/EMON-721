@@ -9,7 +9,7 @@
 <!-- ================ HERO: REAL PORTRAIT, ANIMATED DESIGN ================ -->
 <table>
 <tr>
-<td width="72%" valign="middle"><img src="assets/hero-research.svg" width="100%" alt="Animated AI research hero banner for Emon Hossain: ideas, data, models, people and impact"/></td>
+<td width="72%" valign="top"><img src="assets/hero-fill-animated.svg" width="100%" alt="Full-height animated research banner with an AI neural-brain silhouette, moving data signals, globe, ideas, models and people"/></td>
 <td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-clear-2026.jpg" width="190" alt="Clear high-resolution real portrait of Emon Hossain wearing a black blazer and white shirt"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · CSE Student · Dhaka, Bangladesh</sub></p></td>
 </tr>
 </table>
@@ -100,7 +100,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Strength</a></p>
 </td><td width="34%" valign="top">
 <h3>Education</h3>
-<a href="https://ulab.edu.bd"><img src="assets/ulab-education.svg" width="100%" alt="ULAB academic nameplate and CSE education emblem"/></a>
+<a href="https://ulab.edu.bd"><img src="assets/ulab-supplied-logo.png" width="230" alt="Exact ULAB logo supplied by the user, yellow and blue crest with University of Liberal Arts Bangladesh wordmark"/></a><br/><img src="assets/education-accent.svg" width="100%" alt="Animated education accent for CSE, ULAB, AI/ML, NLP and Data Science"/>
 <p><b>B.Sc. in Computer Science &amp; Engineering</b><br/>University of Liberal Arts Bangladesh (ULAB)<br/>Dhaka, Bangladesh · <b>In progress</b></p>
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Update · ＋ Add Education</a></p>
 </td><td width="33%" valign="top">
@@ -174,13 +174,7 @@ Connected GitHub access currently confirms <b>7 repositories (2 public and 5 pri
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project card for Emon's MS Journey"/></a><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Master's application research and personal milestone tracking.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project card for GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>Animated profile presentation and research concept map.</p></td></tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/EMON-721/vocab-station"><img src="assets/repos/vocab-station.svg" width="100%" alt="Animated project card for Vocab Station using its existing original logo"/></a><p><b><a href="https://github.com/EMON-721/vocab-station">Vocab Station</a></b> · <sub>Private</sub></p><p>English vocabulary learning, daily practice, mock tests, revision and progress tracking.</p></td>
-<td width="50%" valign="top">
-<p><sub>LOCAL ON-DEMAND SERVICES · SERVICE DISCOVERY</sub></p>
-<h3>🛠️ Local Service</h3>
-<p>Local service discovery and booking website project — helping customers find service categories, local professionals and request services such as home cleaning.</p>
-<p><sub>Project entry · Repository link not yet verified</sub></p>
-<p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Add verified repository link / existing logo</a></p>
-</td>
+<td width="50%" valign="top"><img src="assets/repos/local-service.svg" width="100%" alt="Animated Local Service project card with house and service tool illustration"/><p><b>🛠️ Local Service</b> · <sub>Project</sub></p><p>Local service discovery and booking: find nearby providers, browse categories and request services such as home cleaning.</p><p><sub>Repository link not yet verified</sub></p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Add verified repository link</a></p></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><h3>＋ Add New Project</h3><p>Add another public repository, verified coursework project, research experiment or new application when available.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add · ✎ Edit · ↕ Reorder</a></td>

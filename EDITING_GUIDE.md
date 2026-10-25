@@ -54,3 +54,10 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Added **Local Service**, a previously discussed local on-demand service booking/discovery project, beside Vocab Station.
 - A matching `EMON-721` GitHub repository is not currently accessible or verified; the card therefore includes no unverified repo URL, publication status or stats. It does not increase the seven verified-repository count.
 - No images were generated or altered. The same two-column table and all existing research/project animations are preserved. Add a verified original project cover/logo later if available.
+
+## Actual GitHub correction — ULAB logo, Hero and Local Service
+
+- The Hero panel uses `assets/hero-fill-animated.svg`, a 1050 × 515 dark navy animated SVG proportioned to fill the left column alongside the real user portrait without large blank vertical padding.
+- The Education panel uses `assets/ulab-supplied-logo.png`, cropped without changing the emblem or wordmark from the exact user-provided ULAB image, followed by `assets/education-accent.svg` animation. The old hand-drawn ULAB approximation is no longer used by README.
+- Local Service now has `assets/repos/local-service.svg`, an animated 610 × 236 card using the same dimensions and dark aesthetic as existing project cards. Its repository is unverified, so no fake repo URL is supplied.
+- No image-generation model was used. This update authored SVG animation code and used the supplied university logo. The original 5-mode AI/ML/NLP/Big Data/Data Science model file is unchanged.

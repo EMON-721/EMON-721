@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="236" viewBox="0 0 610 236" role="img" aria-label="Animated Local Service project cover with a connected house and wrench, matching the other Featured Project cards">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1728"/><stop offset="1" stop-color="#102b3c"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#4b6c85" opacity=".19"/></pattern></defs>
+<rect width="610" height="236" rx="9" fill="url(#bg)" stroke="#3d798d"/><rect width="610" height="236" rx="9" fill="url(#grid)"/>
+<text x="24" y="35" fill="#7ac4b8" font-size="12" font-family="monospace">FEATURED PROJECT // LOCAL SERVICE</text>
+<text x="24" y="105" fill="#e9f5fc" font-size="30" font-family="Arial,sans-serif" font-weight="700">Local Service</text>
+<text x="25" y="140" fill="#a5c8da" font-size="13" font-family="monospace">LOCAL SERVICES / DISCOVERY</text>
+<text x="25" y="174" fill="#b8d5df" font-size="15" font-family="Arial,sans-serif">Find · Book · Connect</text>
+<text x="25" y="211" fill="#8ab8c7" font-size="12" font-family="monospace">ON-DEMAND SERVICES</text>
+<g><g stroke="#79cabc" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" fill="none">
+<path d="M360 130L465 66L565 131"/>
+<path d="M379 122V196H546V122"/>
+<path d="M434 196V152H483V196"/>
+<path d="M493 106l19 -19 15 15 -18 19" stroke="#98d8e0"/><circle cx="493" cy="106" r="5" fill="#68cbbb"/>
+<path d="M512 88C502 77 512 60 524 60C531 60 535 69 530 75L543 88 C549 81 559 84 562 93 C567 108 548 116 538 106L512 88Z" stroke="#90d9d6" stroke-width="3"/>
+</g><circle cx="470" cy="132" r="66" stroke="#447d99" fill="none" stroke-opacity=".45" stroke-dasharray="5 13"><animateTransform attributeName="transform" type="rotate" from="0 470 132" to="360 470 132" dur="23s" repeatCount="indefinite"/></circle>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3.5s" repeatCount="indefinite"/>
+</g>
+<path d="M24 224H586" stroke="#7ac4b8" stroke-dasharray="5 13" opacity=".65"><animate attributeName="stroke-dashoffset" from="0" to="-80" dur="5s" repeatCount="indefinite"/></path>
+</svg>
