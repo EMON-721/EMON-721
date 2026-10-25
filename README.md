@@ -9,7 +9,7 @@
 <!-- ================ HERO: REAL PORTRAIT, ANIMATED DESIGN ================ -->
 <table>
 <tr>
-<td width="72%" valign="top"><img src="assets/hero-fill-animated.svg" width="100%" alt="Full-height animated AI research banner with brain network, flowing data, globe, research fields and Build Research Innovate Learn Contribute actions"/></td>
+<td width="72%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/hero-neural-layout-v2.svg" width="100%" alt="Animated full-height AI research banner with larger Emon Hossain heading, detailed humanoid neural mesh, ideas and data, and research actions"/></a></td>
 <td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-clear-2026.jpg" width="190" alt="Clear high-resolution real portrait of Emon Hossain wearing a black blazer and white shirt"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · CSE Student · Dhaka, Bangladesh</sub></p></td>
 </tr>
 </table>
