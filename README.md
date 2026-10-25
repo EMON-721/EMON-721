@@ -1,6 +1,6 @@
 <!--
   EMON-721 / EMON-721 — public GitHub profile README
-  Research Interface v2 — designed 25 October 2026.
+  Research Interface v4 — updated 25 October 2026.
   Every section below is deliberately editable. See EDITING_GUIDE.md.
   IMPORTANT: Do not publish private repositories, credentials, financial data,
   transcripts, or unverified publication / contribution figures in this public repo.
@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td width="72%" valign="middle"><img src="assets/hero-research.svg" width="100%" alt="Animated AI research hero banner for Emon Hossain: ideas, data, models, people and impact"/></td>
-<td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-2026.jpg" width="190" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · Dhaka, Bangladesh</sub></p></td>
+<td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-2026.jpg" width="190" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · CSE Student · Dhaka, Bangladesh</sub></p></td>
 </tr>
 </table>
 
