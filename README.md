@@ -9,14 +9,14 @@
 <!-- ================ HERO: REAL PORTRAIT, ANIMATED DESIGN ================ -->
 <table>
 <tr>
-<td width="78%" valign="middle"><img src="assets/hero-research.svg" width="100%" alt="Animated AI research hero banner for Emon Hossain: ideas, data, models, people and impact"/></td>
-<td width="22%" valign="middle" align="center"><img src="assets/emon-portrait-2026.jpg" width="155" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · Dhaka, Bangladesh</sub></p></td>
+<td width="72%" valign="middle"><img src="assets/hero-research.svg" width="100%" alt="Animated AI research hero banner for Emon Hossain: ideas, data, models, people and impact"/></td>
+<td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-2026.jpg" width="190" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · Dhaka, Bangladesh</sub></p></td>
 </tr>
 </table>
 
 <div align="center">
 
-**CSE Student | AI • ML • NLP • Data Science | Research-Driven**
+**Computer Science & Engineering (CSE) Student | AI • ML • NLP • Data Science | Research-Driven**
 
 Exploring how machines learn, understand language, and turn data into useful insights.
 
@@ -213,23 +213,39 @@ I explore research questions, practical evaluations and dataset-based experiment
 
 ---
 
-<!-- ================ CONTACT / SOCIAL PLACEHOLDERS / OWNER EDITING ================ -->
-## 08 / Connect · Collaboration
+<!-- ================ CONTACT, QUOTE, COLLABORATION AND OWNER TOOLS ================ -->
+## 08 / Connect With Me · Open to Collaboration
 
-> **Building intelligent solutions for a better tomorrow.**
+> **Building Intelligent Solutions for a Better Tomorrow.**  
+> — **Emon Hossain**
 
-I'm open to thoughtful discussions about research, intelligent systems, machine learning, Language & NLP, and data science.
+I'm interested in collaborative research discussions, AI/ML experiments, NLP and language models, Data Science and practical learning.
 
-**GitHub:** [EMON-721](https://github.com/EMON-721) · **Public Work:** [Repositories](https://github.com/EMON-721?tab=repositories)
+<div align="center">
+<a href="https://github.com/EMON-721"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="＋ LinkedIn"/></a>
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_WhatsApp-177F52?style=for-the-badge&logo=whatsapp&logoColor=white" alt="＋ WhatsApp"/></a>
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_Portfolio-6354A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="＋ Portfolio"/></a>
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_Email-B74747?style=for-the-badge&logo=gmail&logoColor=white" alt="＋ Email"/></a>
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_X-24292F?style=for-the-badge&logo=x&logoColor=white" alt="＋ X"/></a>
+</div>
 
-**Future Contact Links:** LinkedIn · WhatsApp · Portfolio · ResearchGate / ORCID · Email · X / Twitter. These fields are intentionally reserved, not filled with invented links.
+<sub>The + badges are working owner-edit links rather than guessed social accounts. Add each URL when you are ready to publish it.</sub>
 
-<details><summary><b>＋ Add Social Links / More Information</b></summary><p>Use the <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">GitHub README editor</a> to insert verified public addresses, new sections, research papers, awards, certifications, projects or a resume when ready.</p></details>
+### Customize Layout · Add / Edit / Reorder / Delete
 
-<details><summary><b>Owner Controls — Add / Edit / Update / Reorder / Delete</b></summary>
-<p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit README</a> · <a href="https://github.com/EMON-721/EMON-721/blob/main/EDITING_GUIDE.md">Editing Guide</a></p>
-<ol><li>Locate the labelled HTML comment for the section to change.</li><li>Update content, copy project cards to add more, move blocks to reorder, remove only unwanted blocks to delete.</li><li>Keep the original five-mode animated research flow in <code>assets/research-concept-map.svg</code>.</li><li>Replace the portrait image only by uploading an approved real photo under the same filename.</li><li>Commit changes to update your GitHub Overview.</li></ol>
-<p><b>Note:</b> GitHub READMEs support animated SVG but not JavaScript-powered CMS controls or clickable animated-mode tabs.</p>
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">⚙ Customize Layout</a> · <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit All Sections</a> · <a href="https://github.com/settings/profile">Edit Native GitHub Profile</a>
+
+<details><summary><b>Owner controls · Future projects / research / awards / contacts</b></summary>
+<ul>
+<li>Use <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">GitHub's README editor</a> to update any section marked by an HTML comment.</li>
+<li>Add a research paper, certification, experience, another interest or project by copying the relevant section/card.</li>
+<li>To add a project animation, create a new SVG under <code>assets/repos/</code> and add a project table entry.</li>
+<li>Move a section to reorder or remove only that section to delete.</li>
+<li>Keep the existing <code>assets/research-concept-map.svg</code> so the animated AI/ML/NLP/Big Data/Data Science flow remains unchanged.</li>
+<li>Use <a href="https://github.com/settings/profile">native GitHub Settings → Profile</a> for the actual GitHub account photo, Name, Bio, location or native social fields. These settings cannot be changed by editing the README.</li>
+</ul>
+<p>GitHub profile READMEs support animated SVG and expandable sections but do not run custom JavaScript tabs, CMS edit pop-ups or draggable cards.</p>
 </details>
 
-<sub>Learn → Research → Build → Evaluate → Improve</sub>
+<div align="center"><sub>LEARN → RESEARCH → BUILD → EVALUATE → IMPROVE · EMON-721</sub></div>
