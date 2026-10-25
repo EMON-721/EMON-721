@@ -138,7 +138,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 | Data Science | Data Cleaning · Analysis · Visualization · Big Data concepts |
 | Project workflow | Git · GitHub · APIs · Databases · Documentation |
 
-<sub>These reflect projects and learning interests, not a claim of expert proficiency in every listed technology. My focus is AI/ML, NLP, Data Science and research, not a Full-Stack Developer title.</sub>
+<sub>These reflect projects and learning interests, not a claim of expert proficiency in every listed technology. My core focus is AI/ML, NLP, Data Science and research.</sub>
 
 
 ---
