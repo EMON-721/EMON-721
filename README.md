@@ -6,18 +6,26 @@
   transcripts, or unverified publication / contribution figures in this public repo.
 -->
 
-<!-- ================ HERO: EDIT / REPLACE assets/hero.png ================ -->
+<!-- ================ HERO: REAL PORTRAIT, ANIMATED DESIGN ================ -->
+<table>
+<tr>
+<td width="78%" valign="middle"><img src="assets/hero-research.svg" width="100%" alt="Animated AI research hero banner for Emon Hossain: ideas, data, models, people and impact"/></td>
+<td width="22%" valign="middle" align="center"><img src="assets/emon-portrait.jpg" width="155" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · Dhaka, Bangladesh</sub></p></td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="assets/hero.png" alt="Emon Hossain — computer science, AI, machine learning, NLP and data science; stylized AI research portrait" width="100%" />
 
-  <a href="https://github.com/EMON-721?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore-Projects-0d6175?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/EMON-721?tab=overview"><img alt="GitHub activity" src="https://img.shields.io/badge/Explore-GitHub_Activity-12645f?style=for-the-badge&logo=githubactions&logoColor=white"></a>
-  <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img alt="Edit profile README" src="https://img.shields.io/badge/Owner-Edit_Profile-203d50?style=for-the-badge&logo=github&logoColor=white"></a>
+**CST Student | AI • ML • NLP • Data Science | Research-Driven**
 
-  **Build • Research • Innovate • Learn • Contribute**
+Exploring how machines learn, understand language, and turn data into useful insights.
 
-  Computer Science & Engineering · Dhaka, Bangladesh · Open to research and collaboration
+[**Build / Projects**](https://github.com/EMON-721?tab=repositories) · [**Research**](#01--research--animated-concept-map) · [**Learn & Innovate**](#03--interests--current-focus) · [**Collaborate**](#08--connect--collaboration)
+
 </div>
+
+<img src="assets/research-process.svg" width="100%" alt="Animated engineering process: Learn → Research → Build → Evaluate"/>
+
 
 ---
 
@@ -79,199 +87,122 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 
 ---
 
-<!-- ================ ABOUT, EDUCATION, RESEARCH: EDIT HERE ================ -->
+<!-- ================ ABOUT / EDUCATION / RESEARCH: EDITABLE ================ -->
 ## 02 / About me · Education · Research background
 
-<img src="assets/academic-strip.png" width="100%" alt="BSc in Computer Science and Engineering at ULAB; research in AI, machine learning, NLP and data science" />
+<table><tr><td valign="top" width="33%">
+<h3>About Me</h3>
+<p>I'm <b>Emon Hossain</b>, a <b>CST student</b> working on ideas and projects involving Artificial Intelligence, Machine Learning, Natural Language Processing and Data Science.</p>
+<p>I learn through research, experimentation and practical problem solving.</p>
+<sub>Problem Solver · Research-Oriented · Continuous Learner</sub>
+</td><td valign="top" width="34%">
+<h3>Education</h3>
+<p><b>B.Sc. in Computer Science &amp; Engineering</b><br/>University of Liberal Arts Bangladesh (ULAB), Dhaka.</p>
+<p><b>In progress</b> · Computing, AI/ML, language and data-focused work.</p>
+<sub>Research Focused · Real-world Learning</sub>
+</td><td valign="top" width="33%">
+<h3>Research Background</h3>
+<p>Interested in applied AI, language technology, information retrieval, data analysis and reproducible experiments using public datasets.</p>
+<p>Exploring intelligent systems and sustainability-related data questions.</p>
+<a href="#06--research--publications">Research &amp; Publications ↗</a>
+</td></tr></table>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### About me
-
-I'm **Emon Hossain**, a Computer Science & Engineering student interested in research-driven software and intelligent systems. I enjoy turning complex ideas into practical applications and testing them against real problems.
-
-**How I work:** Learn → Research → Build → Evaluate → Improve.
-
-</td>
-<td width="34%" valign="top">
-
-### Education
-
-**B.Sc. in Computer Science & Engineering**
-
-University of Liberal Arts Bangladesh (**ULAB**), Dhaka.
-
-**Academic focus:** Computing, AI/ML, NLP and data-oriented problem solving.
-
-</td>
-<td width="33%" valign="top">
-
-### Research background
-
-I'm interested in **Artificial Intelligence**, **Natural Language Processing**, **Data Science** and applied research, especially public-dataset-based projects, information retrieval and real-world impact.
-
-[Add verified papers and DOIs below](#05--research--publications).
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- ================ INTERESTS: ADD MORE ROWS OR ITEMS ================ -->
+<!-- ================ INTERESTS / CURRENT WORK: EXPANDABLE ================ -->
 ## 03 / Interests · Current focus
 
-| Intelligence & Data | Engineering & Impact |
+| Core fields | Related research and applications |
 | --- | --- |
-| Artificial Intelligence · Machine Learning | Full-stack intelligent applications |
-| NLP · Language models · Retrieval / RAG | Human-centered interfaces and systems |
-| Data Science · Big Data · Analysis · Visualization | Research methods and reproducible evaluation |
-| Deep Learning · Responsible AI | AI for education and sustainability |
+| Artificial Intelligence · Machine Learning | Deep Learning · Applied Intelligent Systems |
+| Language & NLP · Information Retrieval | Multilingual NLP · Language Models · RAG |
+| Data Science · Big Data | Data Preparation · Visualization · Model Evaluation |
+| Research Methods · Responsible AI | AI for Education · Sustainability & Environmental Data |
 
-**Currently working on:** Integrated learning platforms, study-planning tools, financial planning systems, research-oriented software, and exploring AI/NLP projects using openly available datasets.
+<table><tr><td width="50%" valign="top"><h3>Currently exploring</h3><p>AI/ML methods, NLP techniques, public dataset experiments, practical data science and research-driven software projects.</p></td><td width="50%" valign="top"><h3>How I work</h3><p>Define a problem → Learn → Research → Build → Test → Evaluate → Improve.</p></td></tr></table>
+
+**Topics open for future expansion:** Computer Vision · Time-series Modelling · Research Methods · Neuroscience & NLP.
+
 
 ---
 
-<!-- ================ TECH STACK: EDIT NAMES TO MATCH REAL SKILLS ================ -->
+<!-- ================ SKILLS / TOOLS: EDIT ACCORDING TO VERIFIED PROFICIENCY ================ -->
 ## 04 / Technical skills · Tools
 
-**Programming:** Python · JavaScript · TypeScript · SQL · HTML · CSS
+| Focus | Tools / concepts used or explored |
+| --- | --- |
+| Programming | Python · JavaScript · SQL · HTML · CSS |
+| AI & ML | Machine Learning · Data Preparation · Evaluation · Deep Learning concepts |
+| Language & NLP | Text Processing · Retrieval / RAG · NLP Models |
+| Data Science | Data Cleaning · Analysis · Visualization · Big Data concepts |
+| Project workflow | Git · GitHub · APIs · Databases · Documentation |
 
-**Web & application development:** React · Next.js · Git · GitHub · APIs
+<sub>These reflect projects and learning interests, not a claim of expert proficiency in every listed technology. My focus is AI/ML, NLP, Data Science and research, not a Full-Stack Developer title.</sub>
 
-**Data & research:** Data preparation · ML experimentation · NLP · Retrieval / RAG concepts
-
-**Developer ecosystem:** Supabase · Vercel · PostgreSQL · Testing and version control
-
-<sub>These are areas in my development and learning ecosystem; this is not a claim of expert proficiency in every tool.</sub>
 
 ---
 
-<!-- ================ PROJECTS: CAN ADD/REMOVE/REORDER INDIVIDUAL CARDS ================ -->
+<!-- ================ PROJECTS: 5 COVERS, PRIVATE LINKS NOT EXPOSED ================ -->
 ## 05 / Featured projects
 
-Project images below are original stylized covers. A project appearing here does **not** mean its source code is publicly accessible. Links are shown only for projects confirmed public.
-
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="assets/project-campus-to-country.png" alt="Campus to Country cover" width="100%" />
-
-**[Campus to Country](https://github.com/EMON-721/campus-to-country)**
-
-A planning platform for destinations, applications and study-abroad workflows. **Public repository.**
-
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/project-passport-band.png" alt="The Passport Band cover" width="100%" />
-
-**The Passport Band**
-
-IELTS Academic preparation, practice, vocabulary and progress tracking. **Private source.**
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<img src="assets/project-visafund.png" alt="VisaFund cover" width="100%" />
-
-**VisaFund**
-
-Financial planning, savings, proof-of-funds organization and readiness tools. **Private source.**
-
-</td>
-<td valign="top">
-
-<img src="assets/project-italy-journey.png" alt="Italy Journey cover" width="100%" />
-
-**Italy Journey**
-
-Admissions and preparation journey information and personal planning tools. **Private source.**
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<img src="assets/project-ms-journey.png" alt="Emon’s MS Journey cover" width="100%" />
-
-**Emon’s MS Journey**
-
-Personal master’s-application planning, documentation and progress tracking. **Private source.**
-
-</td>
-<td valign="top">
-
-### + Next project
-
-New project coming soon.
-
-To add one, duplicate any project card in this section, add a new `assets/project-...png` image, write its summary and add a **verified public** repository/demo link when ready.
-
-**[Edit projects](https://github.com/EMON-721/EMON-721/edit/main/README.md)**
-
-</td>
-</tr>
+<tr><td width="50%" valign="top"><img src="assets/project-campus-to-country.png" width="100%" alt="Campus to Country project cover"/><p><b><a href="https://github.com/EMON-721/campus-to-country">Campus to Country</a></b></p><p>A unified destination and application-planning platform for study-abroad research.</p><sub>Public repo · Platform · Education</sub></td><td width="50%" valign="top"><img src="assets/project-passport-band.png" width="100%" alt="The Passport Band project cover"/><p><b>The Passport Band</b></p><p>IELTS learning, practice, vocabulary and progress tracking.</p><sub>Private source · Language Learning</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/project-visafund.png" width="100%" alt="VisaFund project cover"/><p><b>VisaFund</b></p><p>Personal funding planning, account tracking and financial readiness.</p><sub>Private source · Finance Planning</sub></td><td width="50%" valign="top"><img src="assets/project-italy-journey.png" width="100%" alt="Italy Journey project cover"/><p><b>Italy Journey</b></p><p>Information and personal planning workflows for Italy admissions.</p><sub>Private source · Planning</sub></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/project-ms-journey.png" width="100%" alt="Emon's MS Journey project cover"/><p><b>Emon's MS Journey</b></p><p>Application tracking and milestone management for master's study planning.</p><sub>Private source · Personal Planner</sub></td>
+<td width="50%" valign="top"><h3>＋ Add New Project</h3><p>New projects, demos and verified public links can be added here over time.</p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit Project Cards ↗</a></p></td></tr>
 </table>
+
+<sub>All five projects are listed. Only Campus to Country has a verified public code link; the other four repositories are private. Project cover graphics are illustrative.</sub>
+
 
 ---
 
-<!-- ================ VERIFIED PUBLICATIONS: NO INVENTED CITATIONS ================ -->
+<!-- ================ PUBLICATIONS: KEEP ONLY VERIFIED SOURCES ================ -->
 ## 06 / Research & publications
 
-**Areas:** AI, Machine Learning, NLP, Big Data, Data Science, applied intelligent systems and AI for sustainability.
+**Research directions:** Artificial Intelligence · Machine Learning · Language & NLP · Data Science · Big Data · Intelligent Systems · Sustainability.
 
-Research-paper metadata should be added here only after checking the official title, authorship, venue and DOI. This prevents inaccurate publication claims.
+I explore research questions, practical evaluations and dataset-based experimentation. Publication records will be displayed here after verifying official paper titles, author details, venues and DOIs; no unverified publication numbers are shown.
 
-<!-- TEMPLATE (duplicate as needed):
-- **Full paper title** — Authors, Venue, Year. [DOI](https://doi.org/...) · [Code](https://github.com/...)
--->
+<details><summary><b>＋ Add Verified Papers / Thesis / Research Projects</b></summary><p>Keep title, date, venue and DOI together with links to public datasets, code and results where available. <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit entries</a>.</p></details>
 
----
-
-<!-- ================ REAL-TIME ACTIVITY: GITHUB-NATIVE LINKS ================ -->
-## 07 / GitHub snapshot · Contributions · Languages
-
-<table>
-<tr>
-<td valign="top" width="33%"><b>Contributions & activity</b><br><a href="https://github.com/EMON-721?tab=overview">See GitHub's actual contribution graph</a></td>
-<td valign="top" width="33%"><b>Repositories & projects</b><br><a href="https://github.com/EMON-721?tab=repositories">Browse repositories and their languages</a></td>
-<td valign="top" width="34%"><b>Recent changes</b><br><a href="https://github.com/EMON-721">See GitHub's latest public activity</a></td>
-</tr>
-</table>
-
-GitHub itself maintains the live heatmap, contribution history and repository language metadata. I intentionally avoid hardcoded streak totals, unverified star counts or third-party statistics images that might fail to load.
 
 ---
 
-<!-- ================ CONTACT, QUOTE & FUTURE EDITING ================ -->
-## 08 / Let's connect · Collaborate
+<!-- ================ GITHUB STATS: GROUNDED LINKS AND DYNAMIC FOLLOWERS ================ -->
+## 07 / GitHub Snapshot · Contributions · Most Used Languages
 
-> **"Building intelligent solutions for a better tomorrow."**
+<table><tr>
+<td width="33%" valign="top"><b>GitHub Statistics</b><p><a href="https://github.com/EMON-721?tab=repositories">Repositories and project activity</a></p></td>
+<td width="33%" valign="top"><b>Contribution Activity</b><p><a href="https://github.com/EMON-721?tab=overview">Live native GitHub calendar</a></p></td>
+<td width="34%" valign="top"><b>Most Used Languages</b><p><a href="https://github.com/EMON-721?tab=repositories">Repository language details</a></p></td>
+</tr></table>
 
-I'm interested in research conversations, collaborative projects and building systems that connect ideas, data, models and people.
+<a href="https://github.com/EMON-721"><img src="https://img.shields.io/github/followers/EMON-721?style=flat-square&label=GitHub%20followers" alt="Live GitHub followers" /></a>
 
-[**GitHub profile**](https://github.com/EMON-721) · [**Explore my public repositories**](https://github.com/EMON-721?tab=repositories)
+<sub>Contributions, stars and language percentages are not hard-coded or fabricated. GitHub provides the current values.</sub>
+
 
 ---
 
-<details>
-<summary><b>Owner tools — Edit / Add / Reorder / Delete any section</b></summary>
-<br>
+<!-- ================ CONTACT / SOCIAL PLACEHOLDERS / OWNER EDITING ================ -->
+## 08 / Connect · Collaboration
 
-1. Open **[Edit README](https://github.com/EMON-721/EMON-721/edit/main/README.md)** while logged in as the repository owner.
-2. Every editable section has a clearly labeled HTML comment. Change its text, duplicate blocks to **add** items, move blocks to **reorder**, or remove a block to **delete** it.
-3. To replace a banner, model or project graphic, upload a new file inside `assets/` and update its filename in this README, or replace the existing file while keeping the same name.
-4. Commit changes. GitHub updates the profile automatically after a successful commit.
-5. Review `EDITING_GUIDE.md` for step-by-step editing and backup instructions.
+> **Building intelligent solutions for a better tomorrow.**
 
-GitHub profile READMEs do not support custom CMS controls, Javascript-powered tabs or draggable panels. Edit buttons in a visual mockup are only an illustration; source editing works reliably through GitHub's built-in editor.
+I'm open to thoughtful discussions about research, intelligent systems, machine learning, Language & NLP, and data science.
 
+**GitHub:** [EMON-721](https://github.com/EMON-721) · **Public Work:** [Repositories](https://github.com/EMON-721?tab=repositories)
+
+**Future Contact Links:** LinkedIn · WhatsApp · Portfolio · ResearchGate / ORCID · Email · X / Twitter. These fields are intentionally reserved, not filled with invented links.
+
+<details><summary><b>＋ Add Social Links / More Information</b></summary><p>Use the <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">GitHub README editor</a> to insert verified public addresses, new sections, research papers, awards, certifications, projects or a resume when ready.</p></details>
+
+<details><summary><b>Owner Controls — Add / Edit / Update / Reorder / Delete</b></summary>
+<p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit README</a> · <a href="https://github.com/EMON-721/EMON-721/blob/main/EDITING_GUIDE.md">Editing Guide</a></p>
+<ol><li>Locate the labelled HTML comment for the section to change.</li><li>Update content, copy project cards to add more, move blocks to reorder, remove only unwanted blocks to delete.</li><li>Keep the original five-mode animated research flow in <code>assets/research-concept-map.svg</code>.</li><li>Replace the portrait image only by uploading an approved real photo under the same filename.</li><li>Commit changes to update your GitHub Overview.</li></ol>
+<p><b>Note:</b> GitHub READMEs support animated SVG but not JavaScript-powered CMS controls or clickable animated-mode tabs.</p>
 </details>
 
-<div align="center"><sub>Built with curiosity. Driven by evidence. Continuously improving.</sub></div>
+<sub>Learn → Research → Build → Evaluate → Improve</sub>

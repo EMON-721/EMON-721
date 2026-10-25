@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="310" viewBox="0 0 1050 310" role="img" aria-label="Animated AI research banner with Emon Hossain's name, technology and neural connections">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1527"/><stop offset=".6" stop-color="#10213a"/><stop offset="1" stop-color="#0c2031"/></linearGradient>
+<linearGradient id="teal"><stop stop-color="#f2f7ff"/><stop offset=".7" stop-color="#abdbea"/><stop offset="1" stop-color="#7cc8c1"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#2c4961" stroke-width=".8" opacity=".35"/></pattern></defs>
+<rect x="1" y="1" width="1048" height="308" rx="13" fill="url(#bg)" stroke="#3b7891"/>
+<rect x="2" y="2" width="1046" height="306" rx="12" fill="url(#grid)"/>
+<path d="M32 24H79" stroke="#7fc7c4" stroke-width="2"/>
+<text x="33" y="51" fill="#95b0c2" font-family="monospace" font-size="14" letter-spacing="2">HELLO, I'M</text>
+<text x="30" y="112" fill="url(#teal)" font-family="Arial,sans-serif" font-size="59" font-weight="bold">Emon Hossain</text>
+<text x="33" y="149" fill="#d8e7f5" font-family="Arial,sans-serif" font-weight="600" font-size="20">CST Student · AI / ML / NLP / Data Science</text>
+<text x="33" y="182" fill="#99d5d8" font-family="monospace" font-size="13">RESEARCH · INTELLIGENT SYSTEMS · DATA-DRIVEN THINKING</text>
+<text x="34" y="218" fill="#e4f0f5" font-family="Arial,sans-serif" font-size="17">Explore ideas → Build solutions → Evaluate impact</text>
+<g font-family="monospace" font-size="12" fill="#a4d2db"><text x="35" y="270">BUILD</text><text x="130" y="270">RESEARCH</text><text x="265" y="270">INNOVATE</text><text x="397" y="270">LEARN</text></g>
+<g stroke="#5ca8bc" fill="none" stroke-width="1.2" stroke-opacity=".55">
+<path d="M540 170 C650 75,720 240,820 150 S970 135,1030 80" stroke-dasharray="4 9"><animate attributeName="stroke-dashoffset" from="0" to="-65" dur="5s" repeatCount="indefinite"/></path>
+<path d="M540 201 C665 90,729 230,840 187 S969 115,1022 155" stroke-dasharray="3 8"><animate attributeName="stroke-dashoffset" from="0" to="-70" dur="6s" repeatCount="indefinite"/></path>
+<path d="M540 230 C678 130,728 257,850 210 S954 182,1020 191" stroke-dasharray="3 10"><animate attributeName="stroke-dashoffset" from="0" to="-50" dur="4s" repeatCount="indefinite"/></path></g>
+<g stroke="#7bc9cf" fill="none" stroke-width="1.5" opacity=".8">
+<path d="M760 53 C692 31,654 91,683 138 Q654 155,662 179 Q676 191,688 193 C699 239,746 254,790 231 C850 228,881 177,850 135 C876 76,821 36,760 53Z"/>
+<path d="M729 75 Q754 104,745 144 T770 207 M781 64 Q802 101,777 133 T811 196 M693 122 Q733 112,768 128 T832 127"/>
+</g>
+<circle cx="747" cy="142" r="6" fill="#7acdd7"><animate attributeName="opacity" values=".3;1;.3" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="780" cy="106" r="5" fill="#79bfe1"/><circle cx="809" cy="160" r="5" fill="#a2d1d5"/>
+<circle cx="941" cy="224" r="53" fill="none" stroke="#4ca8c7" opacity=".6"/><ellipse cx="941" cy="224" rx="19" ry="53" fill="none" stroke="#4ca8c7" opacity=".6"/>
+<ellipse cx="941" cy="224" rx="53" ry="19" fill="none" stroke="#4ca8c7" opacity=".6"/>
+<path d="M887 224H995 M941 171V277" stroke="#4ca8c7" opacity=".3"/>
+<g font-family="monospace" fill="#8dc9d1" font-size="13"><text x="552" y="53">IDEAS</text><text x="552" y="74">DATA</text><text x="552" y="95">MODELS</text><text x="992" y="53" text-anchor="end">PEOPLE</text><text x="992" y="74" text-anchor="end">IMPACT</text></g>
+</svg>
