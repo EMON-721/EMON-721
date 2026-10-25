@@ -166,17 +166,24 @@ My main focus is research in AI/ML, NLP and Data Science; the technical stack re
 <!-- ================ PROJECTS: ALL CONNECTED REPOSITORIES, ANIMATED ================ -->
 ## 05 / Featured Repositories · Projects
 
-Connected GitHub access currently confirms <b>6 repositories (2 public and 4 private)</b>. They are shown below with individual animated cards. This count is only the current accessible inventory; previously created or disconnected repositories may not appear.
+Connected GitHub access currently confirms <b>7 repositories (2 public and 5 private)</b>. They are shown below with individual animated cards. This count is only the current accessible inventory; previously created or disconnected repositories may not appear.
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/campus-to-country"><img src="assets/repos/campus-to-country.svg" width="100%" alt="Animated project card for Campus to Country"/></a><p><b><a href="https://github.com/EMON-721/campus-to-country">Campus to Country</a></b> · <sub>Public</sub></p><p>Destination and application planning platform.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project card for The Passport Band"/></a><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning activities.</p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/visafund.svg" width="100%" alt="Animated project card for VisaFund"/></a><p><b>VisaFund</b> · <sub>Private</sub></p><p>Financial planning, account tracking and readiness tools.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/italy-journey-portal.svg" width="100%" alt="Animated project card for Italy Journey"/></a><p><b>Italy Journey</b> · <sub>Private</sub></p><p>Italy admissions research and application planning.</p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project card for Emon's MS Journey"/></a><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Master's application research and personal milestone tracking.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project card for GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>Animated profile presentation and research concept map.</p></td></tr>
 <tr>
+<td width="50%" valign="top">
+<table><tr><td width="30%" align="center" valign="middle"><a href="https://github.com/EMON-721/vocab-station"><img src="assets/repos/vocab-station-logo.svg" width="105" alt="Vocab Station original repository VS logo"/></a></td>
+<td width="70%" valign="middle"><h3>Vocab Station</h3><sub>Private · Vocabulary Learning</sub><p>English vocabulary practice with Bengali meanings, daily plans, mock tests, revision checkpoints and progress tracking.</p><p><a href="https://github.com/EMON-721/vocab-station">View repository (authorized access)</a></p></td></tr></table>
+<img src="assets/research-process.svg" width="100%" alt="Existing animated learning and improvement process strip reused for Vocab Station"/>
+</td>
 <td width="50%" valign="top"><h3>＋ Add New Project</h3><p>Add another public repository, verified coursework project, research experiment or new application when available.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add · ✎ Edit · ↕ Reorder</a></td>
-<td width="50%" valign="top"><h3>Software Engineering Coursework</h3><p>I have completed a software-engineering coursework project. Its repository title and details can be added when verified.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add Coursework Details</a></td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top"><h3>Software Engineering Coursework</h3><p>I have completed a software-engineering coursework project. Its repository title and details can be added when verified.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add Coursework Details</a></td>
+<td width="50%" valign="top"><sub>More verified projects can be added here without changing the existing research animations.</sub></td>
+</tr></table>
 
 <sub>Private project source code has not been exposed, and no imaginary stars, fork counts or publication details are displayed.</sub>
 

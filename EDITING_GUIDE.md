@@ -11,7 +11,7 @@ Updated 25 October 2026.
 5. Research background: AI/ML, NLP, RAG, datasets, model evaluation and sustainability.
 6. Interests: research themes and current focus.
 7. Skills: HTML, CSS, JavaScript, TypeScript, Python, MySQL, Git, GitHub, Jira and Atlassian.
-8. Repositories: six connected repository cards, each with a separate animated cover. Two are public; four are private.
+8. Repositories: seven connected repositories in total. Six previous animated repository cards are preserved; Vocab Station is added using its own original repository logo and the already-existing animated process strip. Two are public; five are private.
 9. Publications: placeholders for verified papers, DOI links and awards.
 10. GitHub Statistics, Contribution Activity and Most Used Languages: native activity and repository links.
 11. Connect With Me: GitHub link, collaboration quote and social link placeholders.
@@ -32,7 +32,7 @@ Updated 25 October 2026.
 Open https://github.com/EMON-721/EMON-721/edit/main/README.md. Sections have marked comment boundaries. Edit text to update, duplicate a block to add, move a block to reorder, and remove only a block to delete. GitHub's commits preserve history.
 
 ### Add repositories
-Currently accessible: `EMON-721`, `campus-to-country` (public) and `The-Passport-Band`, `visafund`, `italy-journey-portal`, `Emon-s-MS-Journey` (private). The six accessible repositories are not necessarily every repository ever created. Newly accessible repositories should be verified before listing.
+Currently accessible: `EMON-721`, `campus-to-country` (public) and `The-Passport-Band`, `visafund`, `italy-journey-portal`, `Emon-s-MS-Journey`, `vocab-station` (private). This current inventory is not necessarily every repository ever created. Newly accessible repositories should be verified before listing.
 
 Create a cover under `assets/repos/new-repo.svg`, then duplicate a card in the repository table and add the real summary. Keep the source of private repositories private.
 
@@ -43,3 +43,9 @@ The GitHub link is verified. LinkedIn, WhatsApp, email, X and portfolio badges c
 A profile README cannot change GitHub's real account avatar, native profile Name/Bio fields, navigation, contribution timeline, or GitHub's own edit buttons. Those live at https://github.com/settings/profile. GitHub Markdown also does not support custom JavaScript-powered tabs and editing panels, but committed SVG animation works where supported.
 
 No unverified publication counts, fabricated stars, follower figures, private secrets, or language percentages should be published.
+
+## Vocab Station (25 October 2026)
+- Newly added `EMON-721/vocab-station` to the Featured Projects section.
+- Copied its original `public/logo.svg` unchanged to `assets/repos/vocab-station-logo.svg` in the public profile, and reused `assets/research-process.svg` for animation. No new image was generated.
+- The repository is private. Its link requires authorization. No code or user data was copied.
+- The `＋ Add New Project` card remains available for future additions.
