@@ -20,7 +20,7 @@
 
 Exploring how machines learn, understand language, and turn data into useful insights.
 
-[**Build / Projects**](https://github.com/EMON-721?tab=repositories) · [**Research**](#01--research--animated-concept-map) · [**Learn & Innovate**](#03--interests--current-focus) · [**Collaborate**](#08--connect--collaboration)
+[**Build / Projects**](https://github.com/EMON-721?tab=repositories) · [**Research**](#01--research--animated-concept-map) · [**Learn & Innovate**](#03--interests--research-directions) · [**Collaborate**](#08--connect-with-me--open-to-collaboration)
 
 </div>
 
