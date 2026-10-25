@@ -163,18 +163,22 @@ My main focus is research in AI/ML, NLP and Data Science; the technical stack re
 
 ---
 
-<!-- ================ PROJECTS: 5 COVERS, PRIVATE LINKS NOT EXPOSED ================ -->
-## 05 / Featured projects
+<!-- ================ PROJECTS: ALL CONNECTED REPOSITORIES, ANIMATED ================ -->
+## 05 / Featured Repositories · Projects
+
+Connected GitHub access currently confirms <b>6 repositories (2 public and 4 private)</b>. They are shown below with individual animated cards. This count is only the current accessible inventory; previously created or disconnected repositories may not appear.
 
 <table>
-<tr><td width="50%" valign="top"><img src="assets/project-campus-to-country.png" width="100%" alt="Campus to Country project cover"/><p><b><a href="https://github.com/EMON-721/campus-to-country">Campus to Country</a></b></p><p>A unified destination and application-planning platform for study-abroad research.</p><sub>Public repo · Platform · Education</sub></td><td width="50%" valign="top"><img src="assets/project-passport-band.png" width="100%" alt="The Passport Band project cover"/><p><b>The Passport Band</b></p><p>IELTS learning, practice, vocabulary and progress tracking.</p><sub>Private source · Language Learning</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/project-visafund.png" width="100%" alt="VisaFund project cover"/><p><b>VisaFund</b></p><p>Personal funding planning, account tracking and financial readiness.</p><sub>Private source · Finance Planning</sub></td><td width="50%" valign="top"><img src="assets/project-italy-journey.png" width="100%" alt="Italy Journey project cover"/><p><b>Italy Journey</b></p><p>Information and personal planning workflows for Italy admissions.</p><sub>Private source · Planning</sub></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/project-ms-journey.png" width="100%" alt="Emon's MS Journey project cover"/><p><b>Emon's MS Journey</b></p><p>Application tracking and milestone management for master's study planning.</p><sub>Private source · Personal Planner</sub></td>
-<td width="50%" valign="top"><h3>＋ Add New Project</h3><p>New projects, demos and verified public links can be added here over time.</p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit Project Cards ↗</a></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/campus-to-country"><img src="assets/repos/campus-to-country.svg" width="100%" alt="Animated project card for Campus to Country"/></a><p><b><a href="https://github.com/EMON-721/campus-to-country">Campus to Country</a></b> · <sub>Public</sub></p><p>Destination and application planning platform.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project card for The Passport Band"/></a><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning activities.</p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/visafund.svg" width="100%" alt="Animated project card for VisaFund"/></a><p><b>VisaFund</b> · <sub>Private</sub></p><p>Financial planning, account tracking and readiness tools.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/italy-journey-portal.svg" width="100%" alt="Animated project card for Italy Journey"/></a><p><b>Italy Journey</b> · <sub>Private</sub></p><p>Italy admissions research and application planning.</p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project card for Emon's MS Journey"/></a><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Master's application research and personal milestone tracking.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project card for GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>Animated profile presentation and research concept map.</p></td></tr>
+<tr>
+<td width="50%" valign="top"><h3>＋ Add New Project</h3><p>Add another public repository, verified coursework project, research experiment or new application when available.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add · ✎ Edit · ↕ Reorder</a></td>
+<td width="50%" valign="top"><h3>Software Engineering Coursework</h3><p>I have completed a software-engineering coursework project. Its repository title and details can be added when verified.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add Coursework Details</a></td>
+</tr>
 </table>
 
-<sub>All five projects are listed. Only Campus to Country has a verified public code link; the other four repositories are private. Project cover graphics are illustrative.</sub>
-
+<sub>Private project source code has not been exposed, and no imaginary stars, fork counts or publication details are displayed.</sub>
 
 ---
 
