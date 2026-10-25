@@ -112,36 +112,54 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 
 ---
 
-<!-- ================ INTERESTS / CURRENT WORK: EXPANDABLE ================ -->
-## 03 / Interests · Current focus
+<!-- ================ INTERESTS & CURRENT FOCUS ================ -->
+## 03 / Interests · Research Directions
 
-| Core fields | Related research and applications |
-| --- | --- |
-| Artificial Intelligence · Machine Learning | Deep Learning · Applied Intelligent Systems |
-| Language & NLP · Information Retrieval | Multilingual NLP · Language Models · RAG |
-| Data Science · Big Data | Data Preparation · Visualization · Model Evaluation |
-| Research Methods · Responsible AI | AI for Education · Sustainability & Environmental Data |
+<code>Artificial Intelligence</code> · <code>Machine Learning</code> · <code>Language &amp; NLP</code> · <code>Data Science</code> · <code>Big Data</code> · <code>Deep Learning</code> · <code>Information Retrieval</code> · <code>Applied Research</code> · <code>Responsible AI</code> · <code>Sustainability</code>
 
-<table><tr><td width="50%" valign="top"><h3>Currently exploring</h3><p>AI/ML methods, NLP techniques, public dataset experiments, practical data science and research-driven software projects.</p></td><td width="50%" valign="top"><h3>How I work</h3><p>Define a problem → Learn → Research → Build → Test → Evaluate → Improve.</p></td></tr></table>
+<table><tr><td width="50%" valign="top">
+<h3>Current focus</h3>
+<ul>
+<li>Machine Learning training, testing and evaluation</li>
+<li>Natural Language Processing, retrieval and RAG</li>
+<li>Data analysis, cleaning and visualization</li>
+<li>Publicly available datasets and research experiments</li>
+</ul>
+</td><td width="50%" valign="top">
+<h3>Research interests</h3>
+<ul>
+<li>Multilingual and low-resource language technology</li>
+<li>Intelligent systems and explainable results</li>
+<li>Ethical AI and reproducible methods</li>
+<li>AI applications for environmental and sustainability data</li>
+</ul>
+</td></tr></table>
 
-**Topics open for future expansion:** Computer Vision · Time-series Modelling · Research Methods · Neuroscience & NLP.
-
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Interest · ↕ Reorder</a>
 
 ---
 
-<!-- ================ SKILLS / TOOLS: EDIT ACCORDING TO VERIFIED PROFICIENCY ================ -->
-## 04 / Technical skills · Tools
+<!-- ================ SKILLS & VERIFIED SELF-DESCRIBED TOOLS ================ -->
+## 04 / Technical Skills · Tools
 
-| Focus | Tools / concepts used or explored |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,git,github&theme=dark" alt="HTML5 CSS3 JavaScript TypeScript Python MySQL Git and GitHub logos" />
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" alt="Atlassian"/>
+</div>
+
+| Skills you identified | Research-related work |
 | --- | --- |
-| Programming | Python · JavaScript · SQL · HTML · CSS |
-| AI & ML | Machine Learning · Data Preparation · Evaluation · Deep Learning concepts |
-| Language & NLP | Text Processing · Retrieval / RAG · NLP Models |
-| Data Science | Data Cleaning · Analysis · Visualization · Big Data concepts |
-| Project workflow | Git · GitHub · APIs · Databases · Documentation |
+| HTML5 · CSS3 · JavaScript · TypeScript | AI / ML · NLP · Data Science |
+| Python · MySQL | Data handling · Model evaluation |
+| Git · GitHub | Version control · Experiments |
+| Jira · Atlassian | Project tracking and collaboration |
 
-<sub>These reflect projects and learning interests, not a claim of expert proficiency in every listed technology. My core focus is AI/ML, NLP, Data Science and research.</sub>
+My main focus is research in AI/ML, NLP and Data Science; the technical stack reflects skills and tools rather than a claim to be a full-stack developer.
 
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Skill · ↕ Reorder</a>
 
 ---
 
