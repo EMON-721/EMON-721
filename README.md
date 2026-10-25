@@ -194,19 +194,22 @@ I explore research questions, practical evaluations and dataset-based experiment
 
 ---
 
-<!-- ================ GITHUB STATS: GROUNDED LINKS AND DYNAMIC FOLLOWERS ================ -->
-## 07 / GitHub Snapshot · Contributions · Most Used Languages
+<!-- ================ GITHUB STATISTICS, CONTRIBUTIONS AND LANGUAGES ================ -->
+## 07 / GitHub Statistics · Contribution Activity · Most Used Languages
+
+<img src="assets/github-snapshot.svg" width="100%" alt="Animated GitHub repository summary showing accessible repository count and sections for contribution activity and languages"/>
 
 <table><tr>
-<td width="33%" valign="top"><b>GitHub Statistics</b><p><a href="https://github.com/EMON-721?tab=repositories">Repositories and project activity</a></p></td>
-<td width="33%" valign="top"><b>Contribution Activity</b><p><a href="https://github.com/EMON-721?tab=overview">Live native GitHub calendar</a></p></td>
-<td width="34%" valign="top"><b>Most Used Languages</b><p><a href="https://github.com/EMON-721?tab=repositories">Repository language details</a></p></td>
+<td width="33%" valign="top"><b>GitHub Statistics</b><p><a href="https://github.com/EMON-721?tab=repositories">Repositories &amp; public project activity</a></p></td>
+<td width="33%" valign="top"><b>Contribution Activity</b><p><a href="https://github.com/EMON-721?tab=overview">Live contribution calendar &amp; commit activity</a></p></td>
+<td width="34%" valign="top"><b>Most Used Languages</b><p><a href="https://github.com/EMON-721?tab=repositories">Repository languages and breakdown</a></p></td>
 </tr></table>
 
-<a href="https://github.com/EMON-721"><img src="https://img.shields.io/github/followers/EMON-721?style=flat-square&label=GitHub%20followers" alt="Live GitHub followers" /></a>
+<div align="center">
+<img src="https://img.shields.io/github/followers/EMON-721?style=flat-square&label=GitHub%20Followers" alt="Live follower badge"/>
+</div>
 
-<sub>Contributions, stars and language percentages are not hard-coded or fabricated. GitHub provides the current values.</sub>
-
+<sub>GitHub's native activity calendar below the profile README shows the actual history. No manually fabricated contribution counts, language percentages, stars or streaks are used.</sub>
 
 ---
 
