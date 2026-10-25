@@ -10,13 +10,13 @@
 <table>
 <tr>
 <td width="78%" valign="middle"><img src="assets/hero-research.svg" width="100%" alt="Animated AI research hero banner for Emon Hossain: ideas, data, models, people and impact"/></td>
-<td width="22%" valign="middle" align="center"><img src="assets/emon-portrait.jpg" width="155" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · Dhaka, Bangladesh</sub></p></td>
+<td width="22%" valign="middle" align="center"><img src="assets/emon-portrait-2026.jpg" width="155" alt="Real portrait of Emon Hossain in black blazer"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · Dhaka, Bangladesh</sub></p></td>
 </tr>
 </table>
 
 <div align="center">
 
-**CST Student | AI • ML • NLP • Data Science | Research-Driven**
+**CSE Student | AI • ML • NLP • Data Science | Research-Driven**
 
 Exploring how machines learn, understand language, and turn data into useful insights.
 
