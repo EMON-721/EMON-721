@@ -82,3 +82,9 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Showcase top positions: Emon Portfolio, Mouchak AI, Campus to Country, FixBari, VisaFund, Vocab Station, Speaking Station. Existing projects follow, and Service Lagbe remains last among repository cards.
 - All four original placeholder cells remain, plus an additional future project slot. No other profile sections are replaced.
 - Verified connected inventory now 14 repositories, 8 public and 6 private. Stats panel adjusted accordingly.
+
+## Published website links — 31 October 2026
+- Added separate Visit Website links without replacing repository links for: Emon Portfolio, Campus to Country, FixBari, VisaFund, Vocab Station, Speaking Station, The Passport Band, GitHub Research Profile.
+- Emon's MS Journey intentionally excluded. Mouchak AI, GoliCoach AI, Italy Journey and Service Lagbe have no confirmed published site URL, so none was invented.
+- Vercel production sites may require authentication; VisaFund current public availability is unverified; The Passport Band is owner-private.
+- Existing images, animations, project order and other README sections unchanged.
