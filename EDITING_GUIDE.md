@@ -68,3 +68,10 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Linked to actual repositories; `Emon-Portfolio` is private and accessible only to authorized GitHub viewers.
 - Existing featured cards and the Add New Project option remain below in their original order.
 - Current connected inventory: 13 accessible repositories (7 public, 6 private); the showcase does not claim to list all 13.
+
+## Featured projects — 31 October 2026
+- Campus to Country appears first. Mouchak AI (`Mouchak-AI-platform`) was added second using the existing animated SVG card style.
+- FixBari, GoliCoach AI, Emon Portfolio and other existing projects are retained; Service Lagbe moved to the bottom of real repository cards.
+- Removed the standalone Local Service card from the public README without deleting any source repository; its old SVG asset remains in Git history for rollback.
+- The connected account still has 13 accessible repos (7 public, 6 private). The existing project placeholders and research animation were kept.
+- No image-generation service was used. The added SVG is code authored to follow the existing cards.
