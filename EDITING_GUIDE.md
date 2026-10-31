@@ -75,3 +75,10 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Removed the standalone Local Service card from the public README without deleting any source repository; its old SVG asset remains in Git history for rollback.
 - The connected account still has 13 accessible repos (7 public, 6 private). The existing project placeholders and research animation were kept.
 - No image-generation service was used. The added SVG is code authored to follow the existing cards.
+
+## Speaking Station and reordered showcase — 31 October 2026
+- Confirmed `EMON-721/Speak-Station` as a public repository with a speaking-practice project. Displayed as **Speaking Station**, linking to its real repository.
+- Used its existing `public/favicon.svg` vector logo in a 610×236 SVG project card, matching earlier README card styling and motion. No image generation was used.
+- Showcase top positions: Emon Portfolio, Mouchak AI, Campus to Country, FixBari, VisaFund, Vocab Station, Speaking Station. Existing projects follow, and Service Lagbe remains last among repository cards.
+- All four original placeholder cells remain, plus an additional future project slot. No other profile sections are replaced.
+- Verified connected inventory now 14 repositories, 8 public and 6 private. Stats panel adjusted accordingly.
