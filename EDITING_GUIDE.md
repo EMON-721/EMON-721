@@ -61,3 +61,10 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - The Education panel uses `assets/ulab-supplied-logo.png`, cropped without changing the emblem or wordmark from the exact user-provided ULAB image, followed by `assets/education-accent.svg` animation. The old hand-drawn ULAB approximation is no longer used by README.
 - Local Service now has `assets/repos/local-service.svg`, an animated 610 × 236 card using the same dimensions and dark aesthetic as existing project cards. Its repository is unverified, so no fake repo URL is supplied.
 - No image-generation model was used. This update authored SVG animation code and used the supplied university logo. The original 5-mode AI/ML/NLP/Big Data/Data Science model file is unchanged.
+
+## Featured Projects reorder — 31 October 2026
+- Added verified `Service-Lagbe`, `FixBari`, `Goli-Coach` and `Emon-Portfolio` at the **top** of the Featured Repositories section, two cards per row.
+- All four cards reuse the previous 610×236 dark navy SVG style, grid, colors and small moving animations; no image-generation model was used.
+- Linked to actual repositories; `Emon-Portfolio` is private and accessible only to authorized GitHub viewers.
+- Existing featured cards and the Add New Project option remain below in their original order.
+- Current connected inventory: 13 accessible repositories (7 public, 6 private); the showcase does not claim to list all 13.
