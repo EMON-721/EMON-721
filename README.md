@@ -16,7 +16,7 @@
 
 <div align="center">
 
-**Computer Science & Engineering (CSE) Student | AI • ML • NLP • Data Science | Research-Driven**
+**Computer Science & Engineering (CSE) Student · University of Liberal Arts Bangladesh (ULAB) | AI • ML • NLP • Data Science | Research-Driven**
 
 Exploring how machines learn, understand language, and turn data into useful insights.
 
