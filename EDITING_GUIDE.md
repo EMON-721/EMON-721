@@ -6,7 +6,7 @@ Updated 25 October 2026.
 ### Current profile structure
 1. Hero: animated AI research background, new user-supplied portrait and corrected **CSE student** bio.
 2. Research: preserved animated AI, Machine Learning, Language & NLP, Big Data and Data Science concept map.
-3. About: creativity, research, continuous learning, impact and software-engineering coursework.
+3. About: creativity, research, continuous learning and impact; practical software projects are not presented as a personal software-development interest.
 4. Education: ULAB-themed academic identifier, B.Sc. in CSE (in progress), Dhaka.
 5. Research background: AI/ML, NLP, RAG, datasets, model evaluation and sustainability.
 6. Interests: research themes and current focus.
@@ -106,3 +106,8 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Inserted Key Derby in the featured gallery near Vocab Station and Speaking Station, not at the end. The other 13 project covers and URLs remain intact; the gallery now shows 14 repositories, with `local-services` reachable through All Repositories.
 - Added `assets/repos/keyderby.svg` as a dedicated SVG animated project cover, using the existing 610×236 navy/teal card language and keyboard/car motion. No remote image or client-side script is necessary.
 - Updated compact directory, summary, gallery labels and animated statistics panel. Preserved the Add New Project placeholder and all research/hero animations.
+
+## Profile emphasis correction — November 2026
+- Research interests are AI, ML, NLP and Data Science, not software engineering as a personal interest or intended career direction.
+- Retain accurate software project listings (such as FixBari and Local Services), without implying a software-development career preference.
+- Replace software-engineering coursework promotion with neutral academic coursework wording.
