@@ -20,7 +20,7 @@
 
 Exploring how machines learn, understand language, and turn data into useful insights.
 
-[**Build / Projects**](https://github.com/EMON-721?tab=repositories) · [**Research**](#01--research--animated-concept-map) · [**Learn & Innovate**](#03--interests--research-directions) · [**Collaborate**](#08--connect-with-me--open-to-collaboration)
+[**Featured Projects**](#05--featured-repositories--projects) · [**Research Flow**](#01--research--animated-concept-map) · [**About & Education**](#02--about-me--education--research-background) · [**Skills**](#04--technical-skills--tools) · [**Research Notes**](#06--research--publications) · [**Connect**](#08--connect-with-me--open-to-collaboration)
 
 </div>
 
@@ -37,7 +37,7 @@ Exploring how machines learn, understand language, and turn data into useful ins
   <sub>Five rotating research modes · flowing signal paths · four stages and twelve nodes · conceptual visualization, not live model inference.</sub>
 </div>
 
-The concept map uses **SVG animation without JavaScript**, with an always-visible connected-node flow inspired by the earlier reference. GitHub profile READMEs cannot run interactive React or JavaScript tabs, so use the expanding panels below to view a specific subject on demand.
+The connected-node flow is an **SVG concept illustration**, not a deployed AI model. Expand any subject below to see its stages. GitHub READMEs do not support custom JavaScript tabs.
 
 <details>
 <summary><b>01 · Machine Learning — Input → Features → Model → Insight</b></summary>
@@ -95,7 +95,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <table><tr><td width="33%" valign="top">
 <h3>About Me</h3>
 <p>I'm <b>Emon Hossain</b>, a <b>Computer Science &amp; Engineering (CSE) student</b>. My interests and academic work focus primarily on <b>Artificial Intelligence, Machine Learning, Natural Language Processing and Data Science</b>.</p>
-<p>I enjoy exploring research problems, testing ideas, working with data and building intelligent solutions. I completed a software engineering coursework project, but software development is not my primary specialization.</p>
+<p>I explore research questions through datasets, experiments and practical evaluation. I have also completed software-engineering coursework; my primary direction remains research rather than a full-stack developer role.</p>
 <p><sub>Creativity · Research-oriented · Continuous learner · Impact-driven</sub></p>
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Strength</a></p>
 </td><td width="34%" valign="top">
@@ -105,8 +105,8 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Update · ＋ Add Education</a></p>
 </td><td width="33%" valign="top">
 <h3>Research Background</h3>
-<p>My research interests involve how machines learn patterns from data, how language models process information, and how datasets can support reproducible experiments and useful decisions.</p>
-<p>Core directions: <b>AI/ML model evaluation, NLP and retrieval/RAG, multilingual language processing, exploratory Data Science, responsible AI</b> and sustainability-related datasets.</p>
+<p>My focus is evaluating computational ideas with usable datasets, clear baselines and reproducible methods. I am particularly interested in reliable results, language and information retrieval, and practical data-driven systems.</p>
+<p><sub>Research approach: Question → Dataset → Baseline → Evaluation → Error analysis → Reporting</sub></p>
 <p><a href="#06--research--publications">Research and publications ↗</a></p>
 </td></tr></table>
 
@@ -156,8 +156,10 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 | Python · MySQL | Data handling · Model evaluation |
 | Git · GitHub | Version control · Experiments |
 | Jira · Atlassian | Project tracking and collaboration |
+| Markdown · SVG | Technical documentation and animated GitHub profile cards |
+| GitHub Actions | Familiarity with workflows present in project repositories |
 
-My main focus is research in AI/ML, NLP and Data Science; the technical stack reflects skills and tools rather than a claim to be a full-stack developer.
+**Research practices:** dataset cleaning, exploratory analysis, baseline comparison, evaluation metrics, error analysis and reproducible reporting. These describe areas of practice, not a claim of expert proficiency in every tool.
 
 <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Skill · ↕ Reorder</a>
 
@@ -166,21 +168,49 @@ My main focus is research in AI/ML, NLP and Data Science; the technical stack re
 <!-- ================ PROJECTS: ALL CONNECTED REPOSITORIES, ANIMATED ================ -->
 ## 05 / Featured Repositories · Projects
 
-Connected GitHub access currently confirms <b>14 repositories (8 public and 6 private)</b>. Emon Portfolio is first, followed by Mouchak AI, Campus to Country, FixBari, VisaFund and Vocab Station. Speaking Station follows, with the remaining projects underneath; Service Lagbe stays at the bottom of the repository cards. This is a curated showcase, not a complete list of all accessible repositories. This count is only the current accessible inventory; previously created or disconnected repositories may not appear.
+The connected GitHub account currently shows **14 accessible repositories: 11 public and 3 private** (checked 1 November 2026). Thirteen are featured below; the additional public `local-services` repository remains accessible from [All Repositories](https://github.com/EMON-721?tab=repositories). Repository visibility can change; this is a dated snapshot, not a live counter.
+
+<details>
+<summary><b>Compact project directory · easy to navigate on mobile</b></summary>
+
+- [Emon Portfolio](https://github.com/EMON-721/Emon-Portfolio)
+- [Mouchak AI](https://github.com/EMON-721/Mouchak-AI-platform)
+- [Campus to Country](https://github.com/EMON-721/campus-to-country)
+- [FixBari](https://github.com/EMON-721/FixBari)
+- [VisaFund](https://github.com/EMON-721/visafund)
+- [Vocab Station](https://github.com/EMON-721/vocab-station)
+- [Speaking Station](https://github.com/EMON-721/Speak-Station)
+- [GoliCoach AI](https://github.com/EMON-721/Goli-Coach)
+- [The Passport Band](https://github.com/EMON-721/The-Passport-Band) *(private source)*
+- [Italy Journey](https://github.com/EMON-721/italy-journey-portal) *(private source)*
+- [Emon's MS Journey](https://github.com/EMON-721/Emon-s-MS-Journey) *(private source)*
+- [GitHub Research Profile](https://github.com/EMON-721/EMON-721)
+- [Service Lagbe](https://github.com/EMON-721/Service-Lagbe)
+
+</details>
 
 <table>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Emon-Portfolio"><img src="assets/repos/emon-portfolio.svg" width="100%" alt="Animated project card for Emon Portfolio"/></a><p><b><a href="https://github.com/EMON-721/Emon-Portfolio">Emon Portfolio</a></b> · <sub>Private</sub></p><p>Personal academic portfolio featuring research, projects and animated sections.</p><p><sub>Repository visible only to authorized GitHub accounts.</sub></p><p><a href="https://emon-portfolio-blond.vercel.app"><b>🌐 Visit Website</b></a> <sub>· Vercel production; access may require sign-in</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Mouchak-AI-platform"><img src="assets/repos/mouchak-ai.svg" width="100%" alt="Animated project card for Mouchak AI"/></a><p><b><a href="https://github.com/EMON-721/Mouchak-AI-platform">Mouchak AI</a></b> · <sub>Public</sub></p><p>Bangla–English AI platform with 50 specialized tool workspaces for practical everyday needs.</p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/campus-to-country"><img src="assets/repos/campus-to-country.svg" width="100%" alt="Animated project card for Campus to Country"/></a><p><b><a href="https://github.com/EMON-721/campus-to-country">Campus to Country</a></b> · <sub>Public</sub></p><p>Destination and application planning platform.</p><p><a href="https://campus-to-country.vercel.app"><b>🌐 Visit Website</b></a> <sub>· Vercel production; access may require sign-in</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/FixBari"><img src="assets/repos/fixbari.svg" width="100%" alt="Animated project card for FixBari"/></a><p><b><a href="https://github.com/EMON-721/FixBari">FixBari</a></b> · <sub>Public</sub></p><p>Local service marketplace for bookings, quotations and technicians.</p><p><a href="https://fix-bari.vercel.app"><b>🌐 Visit Website</b></a> <sub>· Vercel production; access may require sign-in</sub></p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/visafund.svg" width="100%" alt="Animated project card for VisaFund"/></a><p><b>VisaFund</b> · <sub>Private</sub></p><p>Financial planning, account tracking and readiness tools.</p><p><a href="https://visafund.fundhub.workers.dev"><b>🌐 Visit Website</b></a> <sub>· Previously published; current access unverified</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/vocab-station"><img src="assets/repos/vocab-station.svg" width="100%" alt="Animated project card for Vocab Station using its existing original logo"/></a><p><b><a href="https://github.com/EMON-721/vocab-station">Vocab Station</a></b> · <sub>Private</sub></p><p>English vocabulary learning, daily practice, mock tests, revision and progress tracking.</p><p><a href="https://vocab-station.emon721.workers.dev"><b>🌐 Visit Website</b></a> <sub>· Published domain; login may be restricted</sub></p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Speak-Station"><img src="assets/repos/speaking-station-v2.svg" width="100%" alt="Animated project card for Speaking Station, based on Speak Station repository microphone waveform logo"/></a><p><b><a href="https://github.com/EMON-721/Speak-Station">Speaking Station</a></b> · <sub>Public</sub></p><p>IELTS speaking practice with topic-based questions, daily sessions, recording, feedback, revision and progress tracking.</p><p><a href="https://speak-station-emon.emonhossain5081.chatgpt.site/"><b>🌐 Visit Website</b></a> <sub>· Published site</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Goli-Coach"><img src="assets/repos/goli-coach.svg" width="100%" alt="Animated project card for GoliCoach AI"/></a><p><b><a href="https://github.com/EMON-721/Goli-Coach">GoliCoach AI</a></b> · <sub>Public</sub></p><p>AI-assisted cricket practice with pose analysis and feedback.</p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project card for The Passport Band"/></a><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning activities.</p><p><a href="https://emon-ielts-studio.emonhossain5081.chatgpt.site"><b>🌐 Visit Website</b></a> <sub>· Published owner-private site</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/italy-journey-portal.svg" width="100%" alt="Animated project card for Italy Journey"/></a><p><b>Italy Journey</b> · <sub>Private</sub></p><p>Italy admissions research and application planning.</p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project card for Emon's MS Journey"/></a><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Master's application research and personal milestone tracking.</p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project card for GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>Animated profile presentation and research concept map.</p><p><a href="https://github.com/EMON-721"><b>🌐 Visit Website</b></a> <sub>· Public GitHub profile</sub></p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Service-Lagbe"><img src="assets/repos/service-lagbe.svg" width="100%" alt="Animated project card for Service Lagbe"/></a><p><b><a href="https://github.com/EMON-721/Service-Lagbe">Service Lagbe</a></b> · <sub>Public</sub></p><p>Home-service booking with customer, technician and admin workflows.</p></td><td width="50%" valign="top"><h3>＋ Add New Project</h3><p>Add another public repository, verified coursework project, research experiment or new application when available.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add · ✎ Edit · ↕ Reorder</a></td></tr>
-<tr><td width="50%" valign="top"><h3>Future Project Slot</h3><p>Additional verified projects can be added here without modifying existing animation or cards.</p></td><td width="50%" valign="top"><h3>Software Engineering Coursework</h3><p>I have completed a software-engineering coursework project. Its repository title and details can be added when verified.</p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">＋ Add Coursework Details</a></td></tr>
-<tr><td width="50%" valign="top"><sub>More verified projects can be added here without changing the existing research animations.</sub></td><td width="50%" valign="top"><h3>＋ Future Project Slot</h3><p>More project cards can be added later without removing any existing sections or research animations.</p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit Featured Projects</a></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Emon-Portfolio"><img src="assets/repos/emon-portfolio.svg" width="100%" alt="Animated project cover: Emon Portfolio"/></a><p><b><a href="https://github.com/EMON-721/Emon-Portfolio">Emon Portfolio</a></b> · <sub>Public</sub></p><p>Personal research portfolio, selected work and editable content.</p><p><a href="https://github.com/EMON-721/Emon-Portfolio">⌘ Source repository</a> · <a href="https://emon-portfolio-blond.vercel.app">🌐 Visit Website</a> <sub>(Website · access may require sign-in)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Mouchak-AI-platform"><img src="assets/repos/mouchak-ai.svg" width="100%" alt="Animated project cover: Mouchak AI"/></a><p><b><a href="https://github.com/EMON-721/Mouchak-AI-platform">Mouchak AI</a></b> · <sub>Public</sub></p><p>Bangla–English AI tool platform with specialized workspaces.</p><p><a href="https://github.com/EMON-721/Mouchak-AI-platform">⌘ Source repository</a></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/campus-to-country"><img src="assets/repos/campus-to-country.svg" width="100%" alt="Animated project cover: Campus to Country"/></a><p><b><a href="https://github.com/EMON-721/campus-to-country">Campus to Country</a></b> · <sub>Public</sub></p><p>Country and university research, comparison and application planning.</p><p><a href="https://github.com/EMON-721/campus-to-country">⌘ Source repository</a> · <a href="https://campus-to-country.vercel.app">🌐 Visit Website</a> <sub>(Website · access may require sign-in)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/FixBari"><img src="assets/repos/fixbari.svg" width="100%" alt="Animated project cover: FixBari"/></a><p><b><a href="https://github.com/EMON-721/FixBari">FixBari</a></b> · <sub>Public</sub></p><p>On-demand services, bookings and local service-provider workflows.</p><p><a href="https://github.com/EMON-721/FixBari">⌘ Source repository</a> · <a href="https://fix-bari.vercel.app">🌐 Visit Website</a> <sub>(Website · access may require sign-in)</sub></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/visafund"><img src="assets/repos/visafund.svg" width="100%" alt="Animated project cover: VisaFund"/></a><p><b><a href="https://github.com/EMON-721/visafund">VisaFund</a></b> · <sub>Public</sub></p><p>Funding preparation, financial planning and readiness tools.</p><p><a href="https://github.com/EMON-721/visafund">⌘ Source repository</a> · <a href="https://visafund.fundhub.workers.dev">🌐 Visit Website</a> <sub>(Website · availability unverified)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/vocab-station"><img src="assets/repos/vocab-station.svg" width="100%" alt="Animated project cover: Vocab Station"/></a><p><b><a href="https://github.com/EMON-721/vocab-station">Vocab Station</a></b> · <sub>Public</sub></p><p>Vocabulary practice, mock tests, revision and progress tracking.</p><p><a href="https://github.com/EMON-721/vocab-station">⌘ Source repository</a> · <a href="https://vocab-station.emon721.workers.dev">🌐 Visit Website</a> <sub>(Website · sign-in may be required)</sub></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Speak-Station"><img src="assets/repos/speaking-station-v2.svg" width="100%" alt="Animated project cover: Speaking Station"/></a><p><b><a href="https://github.com/EMON-721/Speak-Station">Speaking Station</a></b> · <sub>Public</sub></p><p>IELTS speaking questions, recording practice and AI feedback.</p><p><a href="https://github.com/EMON-721/Speak-Station">⌘ Source repository</a> · <a href="https://speak-station-emon.emonhossain5081.chatgpt.site/">🌐 Visit Website</a> <sub>(Website)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Goli-Coach"><img src="assets/repos/goli-coach.svg" width="100%" alt="Animated project cover: GoliCoach AI"/></a><p><b><a href="https://github.com/EMON-721/Goli-Coach">GoliCoach AI</a></b> · <sub>Public</sub></p><p>AI-assisted cricket practice and pose-analysis feedback.</p><p><a href="https://github.com/EMON-721/Goli-Coach">⌘ Source repository</a></p></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project cover: The Passport Band"/><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning resources.</p><p><sub>Source code restricted</sub> · <a href="https://emon-ielts-studio.emonhossain5081.chatgpt.site">🌐 Visit Website</a> <sub>(Website · restricted)</sub></p></td><td width="50%" valign="top"><img src="assets/repos/italy-journey-portal.svg" width="100%" alt="Animated project cover: Italy Journey"/><p><b>Italy Journey</b> · <sub>Private</sub></p><p>Italy admissions research and planning tools.</p><p><sub>Source code restricted</sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project cover: Emon's MS Journey"/><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Personal master's application milestones and research planning.</p><p><sub>Source code restricted</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project cover: GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>GitHub overview, research concept maps and animated project cards.</p><p><a href="https://github.com/EMON-721/EMON-721">⌘ Source repository</a> · <a href="https://github.com/EMON-721">🌐 View Profile</a> <sub>(Public profile)</sub></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Service-Lagbe"><img src="assets/repos/service-lagbe.svg" width="100%" alt="Animated project cover: Service Lagbe"/></a><p><b><a href="https://github.com/EMON-721/Service-Lagbe">Service Lagbe</a></b> · <sub>Public</sub></p><p>Home-service discovery and booking workflows.</p><p><a href="https://github.com/EMON-721/Service-Lagbe">⌘ Source repository</a></p></td><td width="50%" valign="top"><p><b>＋ Add New Project</b></p><p>More projects can be added without replacing existing cards.</p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Owner: Add / Edit / Reorder</a></p></td></tr>
 </table>
 
-<sub>Private project source code has not been exposed, and no imaginary stars, fork counts or publication details are displayed.</sub>
+<details>
+<summary><b>＋ Future projects, coursework &amp; owner editing</b></summary>
+
+- **Add New Project:** Add a public repository, coursework project, research experiment or application when available.
+- **Future Project Slot:** Additional verified projects can be included without altering animations.
+- **Software Engineering Coursework:** Completed coursework can be documented once its repository and details are confirmed.
+- **＋ Future Project Slot:** Reuse the existing SVG-card template for new projects.
+- **Edit / Reorder:** [Open README editor](https://github.com/EMON-721/EMON-721/edit/main/README.md).
+
+</details>
+
+<sub>All 13 existing project covers and links remain. Private repository code is not embedded or exposed. No unverified stars, forks or publication figures are shown.</sub>
 
 ---
 
@@ -189,9 +219,11 @@ Connected GitHub access currently confirms <b>14 repositories (8 public and 6 pr
 
 **Research directions:** Artificial Intelligence · Machine Learning · Language & NLP · Data Science · Big Data · Intelligent Systems · Sustainability.
 
-I explore research questions, practical evaluations and dataset-based experimentation. Publication records will be displayed here after verifying official paper titles, author details, venues and DOIs; no unverified publication numbers are shown.
+**Research practice:** begin with a clear question, document data provenance, establish a baseline, select appropriate evaluation metrics, inspect limitations and report reproducible findings.
 
-<details><summary><b>＋ Add Verified Papers / Thesis / Research Projects</b></summary><p>Keep title, date, venue and DOI together with links to public datasets, code and results where available. <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit entries</a>.</p></details>
+**Publications:** a bibliography is intentionally not displayed at this stage. No unverified publication counts or results are claimed.
+
+<details><summary><b>Research updates · owner-maintained</b></summary><p>Research notes, thesis progress and verified sources can be added later without changing the layout. <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Edit research section</a>.</p></details>
 
 
 ---
@@ -202,7 +234,7 @@ I explore research questions, practical evaluations and dataset-based experiment
 <img src="assets/github-snapshot.svg" width="100%" alt="Animated GitHub repository summary showing accessible repository count and sections for contribution activity and languages"/>
 
 <table><tr>
-<td width="33%" valign="top"><b>GitHub Statistics</b><p><a href="https://github.com/EMON-721?tab=repositories">Repositories &amp; public project activity</a></p></td>
+<td width="33%" valign="top"><b>GitHub Statistics</b><p><a href="https://github.com/EMON-721?tab=repositories">Verified repository directory</a></p></td>
 <td width="33%" valign="top"><b>Contribution Activity</b><p><a href="https://github.com/EMON-721?tab=overview">Live contribution calendar &amp; commit activity</a></p></td>
 <td width="34%" valign="top"><b>Most Used Languages</b><p><a href="https://github.com/EMON-721?tab=repositories">Repository languages and breakdown</a></p></td>
 </tr></table>
@@ -211,7 +243,7 @@ I explore research questions, practical evaluations and dataset-based experiment
 <img src="https://img.shields.io/github/followers/EMON-721?style=flat-square&label=GitHub%20Followers" alt="Live follower badge"/>
 </div>
 
-<sub>GitHub's native activity calendar below the profile README shows the actual history. No manually fabricated contribution counts, language percentages, stars or streaks are used.</sub>
+<sub>Repository counts above are a snapshot from 1 November 2026. GitHub's native activity calendar displays actual contributions; languages differ by repository and are not fabricated into a single percentage chart. Public repositories and visibility may change.</sub>
 
 ---
 
@@ -224,15 +256,17 @@ I explore research questions, practical evaluations and dataset-based experiment
 I'm interested in collaborative research discussions, AI/ML experiments, NLP and language models, Data Science and practical learning.
 
 <div align="center">
-<a href="https://github.com/EMON-721"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="＋ LinkedIn"/></a>
-<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_WhatsApp-177F52?style=for-the-badge&logo=whatsapp&logoColor=white" alt="＋ WhatsApp"/></a>
-<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_Portfolio-6354A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="＋ Portfolio"/></a>
-<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_Email-B74747?style=for-the-badge&logo=gmail&logoColor=white" alt="＋ Email"/></a>
-<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="https://img.shields.io/badge/＋_X-24292F?style=for-the-badge&logo=x&logoColor=white" alt="＋ X"/></a>
+<a href="https://github.com/EMON-721"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://emon-portfolio-blond.vercel.app"><img src="https://img.shields.io/badge/Portfolio-245e88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Emon Portfolio website"/></a>
 </div>
 
-<sub>The + badges are working owner-edit links rather than guessed social accounts. Add each URL when you are ready to publish it.</sub>
+<details><summary><b>Other contact channels · not configured yet</b></summary>
+
+LinkedIn · WhatsApp · Email · X — placeholders retained for future verified links; they no longer misdirect visitors to the README editor. [Edit contact links](https://github.com/EMON-721/EMON-721/edit/main/README.md).
+
+</details>
+
+<sub>Only confirmed GitHub and Portfolio links are clickable. Other contact channels can be added after their URLs are confirmed.</sub>
 
 ### Customize Layout · Add / Edit / Reorder / Delete
 

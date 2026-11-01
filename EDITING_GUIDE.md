@@ -88,3 +88,15 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Emon's MS Journey intentionally excluded. Mouchak AI, GoliCoach AI, Italy Journey and Service Lagbe have no confirmed published site URL, so none was invented.
 - Vercel production sites may require authentication; VisaFund current public availability is unverified; The Passport Band is owner-private.
 - Existing images, animations, project order and other README sections unchanged.
+
+## Profile audit improvement pass — 1 November 2026
+- No SVG project artwork or AI research flow was removed, regenerated or rewritten. Existing hero and portrait kept intact.
+- GitHub inventory at review: 14 accessible repositories (11 public, 3 private); README project badges and stats snapshot updated to match visibility, without changing actual repository permissions.
+- Rebuilt Featured Projects card copy into consistent short descriptions, verified public repository links and preserved previously listed website URLs; removed misleading owner-editor links from private cover images.
+- Kept all 13 displayed project covers in the original order. The future-project/coursework placeholders remain in a collapsible editor section, and a compact repository directory helps mobile readers.
+- Website/Contact: only confirmed GitHub and Portfolio links clickable. LinkedIn, WhatsApp, Email and X are retained as unconfigured channels; public readers are no longer misdirected to the GitHub README edit link.
+- Research: clarified methods/reproducibility without publishing any unverified article, DOI, author, result or publication count.
+- Skills: distinguished existing coding tools from research practices; documented Markdown, SVG and GitHub Actions without asserting specialist mastery.
+- Statistics: updated the dated repository count while deferring live contributions and language history to GitHub's native views; no invented numbers.
+- GitHub README HTML has limited mobile-responsive CSS support; this pass adds a plain-text/mobile navigation path and avoids overstating device-level rendering verification.
+- Older alternate graphic assets remain in the repository to avoid destructive cleanup. New changes may be reverted using GitHub history.
