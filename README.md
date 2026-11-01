@@ -95,7 +95,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <table><tr><td width="33%" valign="top">
 <h3>About Me</h3>
 <p>I'm <b>Emon Hossain</b>, a <b>Computer Science &amp; Engineering (CSE) student</b>. My interests and academic work focus primarily on <b>Artificial Intelligence, Machine Learning, Natural Language Processing and Data Science</b>.</p>
-<p>I explore research questions through datasets, experiments and practical evaluation. I have also completed software-engineering coursework; my primary direction remains research rather than a full-stack developer role.</p>
+<p>I focus on research questions, datasets, experiments and practical evaluation. Projects such as FixBari and Local Services are practical work, not a statement of software development as my personal research interest or career direction.</p>
 <p><sub>Creativity · Research-oriented · Continuous learner · Impact-driven</sub></p>
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Strength</a></p>
 </td><td width="34%" valign="top">
@@ -206,7 +206,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 
 - **Add New Project:** Add a public repository, coursework project, research experiment or application when available.
 - **Future Project Slot:** Additional verified projects can be included without altering animations.
-- **Software Engineering Coursework:** Completed coursework can be documented once its repository and details are confirmed.
+- **Academic Coursework:** Relevant coursework can be documented when its details are confirmed.
 - **＋ Future Project Slot:** Reuse the existing SVG-card template for new projects.
 - **Edit / Reorder:** [Open README editor](https://github.com/EMON-721/EMON-721/edit/main/README.md).
 
