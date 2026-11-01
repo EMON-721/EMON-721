@@ -100,3 +100,9 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Statistics: updated the dated repository count while deferring live contributions and language history to GitHub's native views; no invented numbers.
 - GitHub README HTML has limited mobile-responsive CSS support; this pass adds a plain-text/mobile navigation path and avoids overstating device-level rendering verification.
 - Older alternate graphic assets remain in the repository to avoid destructive cleanup. New changes may be reverted using GitHub history.
+
+## Key Derby project addition — 1 November 2026
+- Confirmed the fifteenth accessible repository: `EMON-721/Keyderby` (public); total is now 12 public and 3 private.
+- Inserted Key Derby in the featured gallery near Vocab Station and Speaking Station, not at the end. The other 13 project covers and URLs remain intact; the gallery now shows 14 repositories, with `local-services` reachable through All Repositories.
+- Added `assets/repos/keyderby.svg` as a dedicated SVG animated project cover, using the existing 610×236 navy/teal card language and keyboard/car motion. No remote image or client-side script is necessary.
+- Updated compact directory, summary, gallery labels and animated statistics panel. Preserved the Add New Project placeholder and all research/hero animations.
