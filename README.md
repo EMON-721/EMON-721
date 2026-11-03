@@ -247,6 +247,19 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 
 <sub>Repository counts above are a snapshot from 1 November 2026. GitHub's native activity calendar displays actual contributions; languages differ by repository and are not fabricated into a single percentage chart. Public repositories and visibility may change.</sub>
 
+### GitHub Achievement Goals · Free
+
+The following are **achievement goals**, not a claim that these badges have been earned. Official badges appear automatically in GitHub's native **Achievements** panel after GitHub verifies qualifying activity. They cannot be added manually by editing this README.
+
+| Achievement | How it is earned |
+| --- | --- |
+| **Quickdraw** | Close an issue or pull request within 5 minutes of opening it. |
+| **YOLO** | Merge a pull request without code review, where repository rules allow it. |
+| **Pull Shark** | Have qualifying pull requests merged; the entry-level tier begins at two. |
+| **Pair Extraordinaire** | Have a qualifying co-authored pull request merged with another contributor. |
+
+[View real GitHub Achievements](https://github.com/EMON-721?tab=achievements) · [GitHub Profile](https://github.com/EMON-721)
+
 ---
 
 <!-- ================ CONTACT, QUOTE, COLLABORATION AND OWNER TOOLS ================ -->
