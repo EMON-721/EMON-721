@@ -111,3 +111,7 @@ No unverified publication counts, fabricated stars, follower figures, private se
 - Research interests are AI, ML, NLP and Data Science, not software engineering as a personal interest or intended career direction.
 - Retain accurate software project listings (such as FixBari and Local Services), without implying a software-development career preference.
 - Replace software-engineering coursework promotion with neutral academic coursework wording.
+
+## GitHub achievement badges
+
+GitHub awards official Achievements automatically after qualifying GitHub actions. A README can document achievement goals but cannot award badges or change the native Achievements panel. Use normal pull requests for reviewed and traceable documentation changes, and confirm awarded badges on the GitHub profile separately.
