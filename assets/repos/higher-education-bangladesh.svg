@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="236" viewBox="0 0 610 236" role="img" aria-label="Animated Higher Education in Bangladesh project cover with Bangladesh flag accent and university directory">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1727"/><stop offset="1" stop-color="#102b3c"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#52778b" opacity=".19"/></pattern></defs>
+<rect x="1" y="1" width="608" height="234" rx="9" fill="url(#bg)" stroke="#3a748d"/><rect width="610" height="236" rx="9" fill="url(#grid)"/>
+<text x="23" y="31" fill="#79beae" font-family="monospace" font-size="12">PROJECT DIRECTORY // BANGLADESH</text>
+<text x="24" y="92" fill="#e8f2fb" font-family="Arial,sans-serif" font-weight="700" font-size="26">Higher Education</text>
+<text x="24" y="126" fill="#e8f2fb" font-family="Arial,sans-serif" font-weight="700" font-size="26">in Bangladesh</text>
+<text x="24" y="159" fill="#a6c9d8" font-family="monospace" font-size="12.5">INSTITUTIONS  /  DISCOVERY</text>
+<text x="24" y="209" fill="#829cb0" font-family="monospace" font-size="12">PUBLIC REPOSITORY</text>
+<g transform="translate(418 42)">
+<rect x="0" y="0" width="139" height="115" rx="15" fill="#124e42" stroke="#58b7a5"/>
+<circle cx="69.5" cy="57.5" r="29" fill="#df4157"/>
+<path d="M15 84V37L69 12L124 37V84" fill="none" stroke="#bce6d9" stroke-width="3" stroke-linejoin="round" opacity=".8"/>
+<path d="M39 87V44H100V87M49 87V58H90V87M61 87V67H78V87" fill="none" stroke="#e8f8f3" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="69.5" cy="57.5" r="37" fill="none" stroke="#7bcfc0" stroke-dasharray="3 10" opacity=".45"><animateTransform attributeName="transform" type="rotate" from="0 69.5 57.5" to="360 69.5 57.5" dur="19s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M24 225H585" stroke="#79beae" stroke-dasharray="4 13" opacity=".7"><animate attributeName="stroke-dashoffset" from="0" to="-68" dur="5s" repeatCount="indefinite"/></path>
+</svg>
