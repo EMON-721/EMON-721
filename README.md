@@ -9,7 +9,7 @@
 <!-- ================ HERO: REAL PORTRAIT, ANIMATED DESIGN ================ -->
 <table>
 <tr>
-<td width="72%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/hero-cyan-neural-animated-2026.webp" width="100%" alt="Animated full-height AI research banner with larger Emon Hossain heading, detailed humanoid neural mesh, ideas and data, and research actions"/></a></td>
+<td width="72%" valign="top"><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md"><img src="assets/hero-cyan-neural-animated-2026.webp" width="100%" alt="Animated research banner introducing Emon Hossain and his work"/></a></td>
 <td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-clear-2026.jpg" width="190" alt="Clear high-resolution real portrait of Emon Hossain wearing a black blazer and white shirt"/><p><b>Emon Hossain</b><br/><sub>EMON-721 · CSE Student · Dhaka, Bangladesh</sub></p></td>
 </tr>
 </table>
@@ -33,43 +33,11 @@ Exploring ideas through rigorous research and turning evidence into practical, i
 ## 01 / Research · Animated concept map
 
 <div align="center">
-  <img src="assets/research-concept-map.svg" width="100%" alt="Animated four-mode concept map: Machine Learning, Artificial Intelligence, Language and NLP, and Data Science; connected stages and pulsing nodes." />
+  <img src="assets/research-concept-map.svg" width="100%" alt="Animated concept map of four analytical workflows with connected stages and pulsing nodes." />
   <sub>Four rotating concept modes · flowing signal paths · four stages and twelve nodes · conceptual illustration.</sub>
 </div>
 
-The connected-node animation illustrates four research workflows. Expand a subject to explore its stages.
-
-<details>
-<summary><b>01 · Machine Learning — Input → Features → Model → Insight</b></summary>
-
-<img src="assets/model-ml.png" width="100%" alt="Machine learning individual four-stage research diagram" />
-
-Experimentation, pattern discovery, evaluation, prediction, and explainability.
-</details>
-
-<details>
-<summary><b>02 · Artificial Intelligence — Data → Represent → Reason → Impact</b></summary>
-
-<img src="assets/model-ai.png" width="100%" alt="Artificial intelligence individual four-stage research diagram" />
-
-Applied intelligence, reasoning, human-centered AI and responsible systems.
-</details>
-
-<details>
-<summary><b>03 · Language & NLP — Text → Tokens → Context → Meaning</b></summary>
-
-<img src="assets/model-nlp.png" width="100%" alt="Natural language processing individual four-stage research diagram" />
-
-Text understanding, multilingual NLP, information retrieval, transformers and RAG.
-</details>
-
-<details>
-<summary><b>04 · Data Science — Collect → Clean → Analyse → Impact</b></summary>
-
-<img src="assets/model-ds.png" width="100%" alt="Data science individual four-stage research diagram" />
-
-Statistical inquiry, feature analysis, useful visualizations and reproducible evidence.
-</details>
+The animated map presents four connected workflows, from initial evidence to useful outcomes.
 
 <details>
 <summary><b>Previous research cycle · optional archive</b></summary>
@@ -77,7 +45,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <img src="assets/research-cycle.gif" width="100%" alt="Original four-mode research animation" />
 </details>
 
-**[Edit research content](https://github.com/EMON-721/EMON-721/edit/main/README.md)** · **[Manage animation source](https://github.com/EMON-721/EMON-721/blob/main/assets/research-concept-map.svg)**
+**[Edit concept map content](https://github.com/EMON-721/EMON-721/edit/main/README.md)** · **[Manage animation source](https://github.com/EMON-721/EMON-721/blob/main/assets/research-concept-map.svg)**
 
 ---
 
@@ -94,7 +62,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Strength</a></p>
 </td><td width="34%" valign="top">
 <h3>Education</h3>
-<a href="https://ulab.edu.bd"><img src="assets/ulab-supplied-logo.png" width="230" alt="Exact ULAB logo supplied by the user, yellow and blue crest with University of Liberal Arts Bangladesh wordmark"/></a><br/><img src="assets/education-accent.svg" width="100%" alt="Animated education accent for CSE, ULAB, AI/ML, NLP and Data Science"/>
+<a href="https://ulab.edu.bd"><img src="assets/ulab-supplied-logo.png" width="230" alt="Exact ULAB logo supplied by the user, yellow and blue crest with University of Liberal Arts Bangladesh wordmark"/></a><br/><img src="assets/education-accent.svg" width="100%" alt="Animated university education accent"/>
 <p><b>B.Sc. in Computer Science &amp; Engineering</b><br/>University of Liberal Arts Bangladesh (ULAB)<br/>Dhaka, Bangladesh · <b>In progress</b></p>
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Update · ＋ Add Education</a></p>
 </td><td width="33%" valign="top">
@@ -144,9 +112,9 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 | Core focus | Tools and working methods |
 | --- | --- |
 | **Programming & data analysis** | Python · Jupyter Notebook · Google Colab · NumPy · pandas |
-| **Machine learning** | scikit-learn · PyTorch · TensorFlow · model training and validation |
+| **Modeling** | scikit-learn · PyTorch · TensorFlow · model training and validation |
 | **Language & retrieval** | Hugging Face Transformers · NLTK · spaCy · embeddings · retrieval / RAG |
-| **Data science & visualization** | SQL · MySQL · Matplotlib · Seaborn · exploratory analysis |
+| **Data visualization** | SQL · MySQL · Matplotlib · Seaborn · exploratory analysis |
 | **Research workflow** | Experimental design · feature engineering · performance metrics · error analysis |
 | **Project collaboration** | Git · GitHub · documentation · testing · iterative prototyping |
 
@@ -183,11 +151,11 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 </details>
 
 <table>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Emon-Portfolio"><img src="assets/repos/emon-portfolio.svg" width="100%" alt="Animated project cover: Emon Portfolio"/></a><p><b><a href="https://github.com/EMON-721/Emon-Portfolio">Emon Portfolio</a></b> · <sub>Public</sub></p><p>Personal research portfolio, selected work and editable content.</p><p><a href="https://github.com/EMON-721/Emon-Portfolio">⌘ Source repository</a> · <a href="https://emon-portfolio-blond.vercel.app">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Mouchak-AI-platform"><img src="assets/repos/mouchak-ai.svg" width="100%" alt="Animated project cover: Mouchak AI"/></a><p><b><a href="https://github.com/EMON-721/Mouchak-AI-platform">Mouchak AI</a></b> · <sub>Public</sub></p><p>Bangla–English AI tool platform with specialized workspaces.</p><p><a href="https://github.com/EMON-721/Mouchak-AI-platform">⌘ Source repository</a></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Emon-Portfolio"><img src="assets/repos/emon-portfolio.svg" width="100%" alt="Animated project cover: Emon Portfolio"/></a><p><b><a href="https://github.com/EMON-721/Emon-Portfolio">Emon Portfolio</a></b> · <sub>Public</sub></p><p>Personal research portfolio, selected work and editable content.</p><p><a href="https://github.com/EMON-721/Emon-Portfolio">⌘ Source repository</a> · <a href="https://emon-portfolio-blond.vercel.app">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Mouchak-AI-platform"><img src="assets/repos/mouchak-ai.svg" width="100%" alt="Animated project cover: Mouchak AI"/></a><p><b><a href="https://github.com/EMON-721/Mouchak-AI-platform">Mouchak AI</a></b> · <sub>Public</sub></p><p>Bangla–English tool platform with specialized workspaces.</p><p><a href="https://github.com/EMON-721/Mouchak-AI-platform">⌘ Source repository</a></p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/campus-to-country"><img src="assets/repos/campus-to-country.svg" width="100%" alt="Animated project cover: Campus to Country"/></a><p><b><a href="https://github.com/EMON-721/campus-to-country">Campus to Country</a></b> · <sub>Public</sub></p><p>Country and university research, comparison and application planning.</p><p><a href="https://github.com/EMON-721/campus-to-country">⌘ Source repository</a> · <a href="https://campus-to-country.vercel.app">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/FixBari"><img src="assets/repos/fixbari.svg" width="100%" alt="Animated project cover: FixBari"/></a><p><b><a href="https://github.com/EMON-721/FixBari">FixBari</a></b> · <sub>Public</sub></p><p>On-demand services, bookings and local service-provider workflows.</p><p><a href="https://github.com/EMON-721/FixBari">⌘ Source repository</a> · <a href="https://fix-bari.vercel.app">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/visafund"><img src="assets/repos/visafund.svg" width="100%" alt="Animated project cover: VisaFund"/></a><p><b><a href="https://github.com/EMON-721/visafund">VisaFund</a></b> · <sub>Public</sub></p><p>Funding preparation, financial planning and readiness tools.</p><p><a href="https://github.com/EMON-721/visafund">⌘ Source repository</a> · <a href="https://visafund.fundhub.workers.dev">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/vocab-station"><img src="assets/repos/vocab-station.svg" width="100%" alt="Animated project cover: Vocab Station"/></a><p><b><a href="https://github.com/EMON-721/vocab-station">Vocab Station</a></b> · <sub>Public</sub></p><p>Vocabulary practice, mock tests, revision and progress tracking.</p><p><a href="https://github.com/EMON-721/vocab-station">⌘ Source repository</a> · <a href="https://vocab-station.emon721.workers.dev">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Keyderby"><img src="assets/repos/keyderby.svg" width="100%" alt="Animated project cover: Key Derby typing races"/></a><p><b><a href="https://github.com/EMON-721/Keyderby">Key Derby</a></b> · <sub>Public</sub></p><p>Timed typing challenges, 3,000 passages and multiplayer races.</p><p><a href="https://github.com/EMON-721/Keyderby">⌘ Source repository</a> · <a href="https://keyderby.emon721.workers.dev/">🌐 Visit Website</a> <sub>(Owner-provided URL · availability unverified)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Speak-Station"><img src="assets/repos/speaking-station-v2.svg" width="100%" alt="Animated project cover: Speaking Station"/></a><p><b><a href="https://github.com/EMON-721/Speak-Station">Speaking Station</a></b> · <sub>Public</sub></p><p>IELTS speaking questions, recording practice and AI feedback.</p><p><a href="https://github.com/EMON-721/Speak-Station">⌘ Source repository</a> · <a href="https://speak-station.emon721.workers.dev">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Goli-Coach"><img src="assets/repos/goli-coach.svg" width="100%" alt="Animated project cover: GoliCoach AI"/></a><p><b><a href="https://github.com/EMON-721/Goli-Coach">GoliCoach AI</a></b> · <sub>Public</sub></p><p>AI-assisted cricket practice and pose-analysis feedback.</p><p><a href="https://github.com/EMON-721/Goli-Coach">⌘ Source repository</a></p></td><td width="50%" valign="top"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project cover: The Passport Band"/><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning resources.</p><p><sub>Source code restricted</sub> · <a href="https://emon-ielts-studio.emonhossain5081.chatgpt.site">🌐 Visit Website</a> <sub>(Published URL · access may be restricted)</sub></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Keyderby"><img src="assets/repos/keyderby.svg" width="100%" alt="Animated project cover: Key Derby typing races"/></a><p><b><a href="https://github.com/EMON-721/Keyderby">Key Derby</a></b> · <sub>Public</sub></p><p>Timed typing challenges, 3,000 passages and multiplayer races.</p><p><a href="https://github.com/EMON-721/Keyderby">⌘ Source repository</a> · <a href="https://keyderby.emon721.workers.dev/">🌐 Visit Website</a> <sub>(Owner-provided URL · availability unverified)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Speak-Station"><img src="assets/repos/speaking-station-v2.svg" width="100%" alt="Animated project cover: Speaking Station"/></a><p><b><a href="https://github.com/EMON-721/Speak-Station">Speaking Station</a></b> · <sub>Public</sub></p><p>IELTS speaking questions, recording practice and feedback.</p><p><a href="https://github.com/EMON-721/Speak-Station">⌘ Source repository</a> · <a href="https://speak-station.emon721.workers.dev">🌐 Visit Website</a> <sub>(Published URL · availability not independently verified)</sub></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Goli-Coach"><img src="assets/repos/goli-coach.svg" width="100%" alt="Animated project cover: GoliCoach AI"/></a><p><b><a href="https://github.com/EMON-721/Goli-Coach">GoliCoach AI</a></b> · <sub>Public</sub></p><p>Cricket practice with pose-analysis feedback.</p><p><a href="https://github.com/EMON-721/Goli-Coach">⌘ Source repository</a></p></td><td width="50%" valign="top"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project cover: The Passport Band"/><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning resources.</p><p><sub>Source code restricted</sub> · <a href="https://emon-ielts-studio.emonhossain5081.chatgpt.site">🌐 Visit Website</a> <sub>(Published URL · access may be restricted)</sub></p></td></tr>
 <tr><td width="50%" valign="top"><img src="assets/repos/italy-journey-portal.svg" width="100%" alt="Animated project cover: Italy Journey"/><p><b>Italy Journey</b> · <sub>Private</sub></p><p>Italy admissions research and planning tools.</p><p><sub>Source code restricted</sub></p></td><td width="50%" valign="top"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project cover: Emon's MS Journey"/><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Personal master's application milestones and research planning.</p><p><sub>Source code restricted</sub></p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project cover: GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>GitHub overview, research concept maps and animated project cards.</p><p><a href="https://github.com/EMON-721/EMON-721">⌘ Source repository</a> · <a href="https://github.com/EMON-721">🌐 View Profile</a> <sub>(Public profile)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Service-Lagbe"><img src="assets/repos/service-lagbe.svg" width="100%" alt="Animated project cover: Service Lagbe"/></a><p><b><a href="https://github.com/EMON-721/Service-Lagbe">Service Lagbe</a></b> · <sub>Public</sub></p><p>Home-service discovery and booking workflows.</p><p><a href="https://github.com/EMON-721/Service-Lagbe">⌘ Source repository</a></p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/local-services"><img src="assets/repos/local-service.svg" width="100%" alt="Animated project cover: Local Services"/></a><p><b><a href="https://github.com/EMON-721/local-services">Local Services</a></b> · <sub>Public</sub></p><p>Service discovery and local booking project concept.</p><p><a href="https://github.com/EMON-721/local-services">⌘ Source repository</a></p></td><td width="50%" valign="top"><p><b>＋ Add New Project</b></p><p>Future verified projects can be added without replacing existing cards.</p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Owner: Add / Edit / Reorder</a></p></td></tr>
