@@ -130,3 +130,10 @@ GitHub awards official Achievements automatically after qualifying GitHub action
 - Based core items on academic CV evidence: Python, PySpark, HTML/CSS, Git, GitHub, XAMPP and Jira; also included the owner's requested coursework/dev environments (Code::Blocks, Java, VS Code), research databases (Google Scholar, IEEE Xplore, arXiv), and frameworks relevant to portfolio projects.
 - Lists tools as coursework/project contexts rather than independently verified expert-level qualifications or claimed publishing affiliations.
 - GitHub native account Bio was not edited. Preserved the 15 featured repository cards, concept map, portrait and project URLs.
+
+## Profile fixes — 6 November 2026 (latest)
+- The GitHub username is now `emonhossain-24`; links in the active public profile README are updated to the current account and `emonhossain-24/emonhossain-24` profile repository.
+- Featured project gallery contains **16 repository cards** (13 public, 3 private), including Higher Education in Bangladesh with its own matching animated SVG cover. The private `achievement-practice` repository is deliberately excluded. The instructional achievement-goals section in README was removed; native GitHub achievements are unaffected.
+- Rebuilt `assets/research-concept-map.svg` with four modes, a bigger 490px canvas and dedicated stage labels above a separate bottom explanatory panel to prevent text clipping/overlap. Maintained continuous animated links and 12 nodes; Big Data is omitted.
+- Project count SVG now reflects 16 featured repositories, not 17 total accessible repositories. Private project source remains private, and Emon's MS Journey has no website URL.
+- All unrelated profile artwork, repository card URLs, hero photo, and existing project descriptions remain intact.
