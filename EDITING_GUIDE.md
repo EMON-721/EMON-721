@@ -124,3 +124,9 @@ GitHub awards official Achievements automatically after qualifying GitHub action
 - Reorganized technical tools into analysis/programming, ML, NLP/retrieval, data visualization and research workflow categories. The listed tools are a toolkit rather than independent certification or audited expertise.
 - Public project gallery now includes **15 selected repositories**, adding the existing `local-services` cover; the 16th account repository (`achievement-practice`) is intentionally excluded from the showcase. Repository statistics are labeled as a curated count, not an account-wide live counter.
 - Existing hero image, portrait, project covers, known website links and remaining animations remain untouched. The private Emon's MS Journey website link remains omitted.
+
+## Industry and research toolkit — 6 November 2026
+- Expanded GitHub README section 04 to **Industry & Research Toolkit**, using colored icon strips and tool badges.
+- Based core items on academic CV evidence: Python, PySpark, HTML/CSS, Git, GitHub, XAMPP and Jira; also included the owner's requested coursework/dev environments (Code::Blocks, Java, VS Code), research databases (Google Scholar, IEEE Xplore, arXiv), and frameworks relevant to portfolio projects.
+- Lists tools as coursework/project contexts rather than independently verified expert-level qualifications or claimed publishing affiliations.
+- GitHub native account Bio was not edited. Preserved the 15 featured repository cards, concept map, portrait and project URLs.
