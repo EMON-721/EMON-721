@@ -1,6 +1,6 @@
 <!--
   EMON-721 / EMON-721 — public GitHub profile README
-  Research Interface v4 — updated 25 October 2026.
+  Research and Applied Work Profile — updated 6 November 2026.
   Every section below is deliberately editable. See EDITING_GUIDE.md.
   IMPORTANT: Do not publish private repositories, credentials, financial data,
   transcripts, or unverified publication / contribution figures in this public repo.
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-**Computer Science & Engineering (CSE) Student · University of Liberal Arts Bangladesh (ULAB) | AI • ML • NLP • Data Science | Research-Driven**
+**CSE Student at University of Liberal Arts Bangladesh (ULAB) | Research & Industry-Oriented Applications**
 
-Exploring how machines learn, understand language, and turn data into useful insights.
+Exploring ideas through rigorous research and turning evidence into practical, industry-relevant solutions.
 
-[**Featured Projects**](#05--featured-repositories--projects) · [**Research Flow**](#01--research--animated-concept-map) · [**About & Education**](#02--about-me--education--research-background) · [**Skills**](#04--technical-skills--tools) · [**Research Notes**](#06--research--publications) · [**Connect**](#08--connect-with-me--open-to-collaboration)
+[**Featured Projects**](#05--featured-repositories--projects) · [**Research Flow**](#01--research--animated-concept-map) · [**About & Education**](#02--about-me--education--research--industry) · [**Skills**](#04--technical-skills--tools) · [**Research Notes**](#06--research--publications) · [**Connect**](#08--connect-with-me--open-to-collaboration)
 
 </div>
 
@@ -33,11 +33,11 @@ Exploring how machines learn, understand language, and turn data into useful ins
 ## 01 / Research · Animated concept map
 
 <div align="center">
-  <img src="assets/research-concept-map.svg" width="100%" alt="Animated conceptual neural-network flow: Machine Learning, Artificial Intelligence, Natural Language Processing, Big Data, and Data Science; connected stages and pulsing nodes." />
-  <sub>Five rotating research modes · flowing signal paths · four stages and twelve nodes · conceptual visualization, not live model inference.</sub>
+  <img src="assets/research-concept-map.svg" width="100%" alt="Animated four-mode concept map: Machine Learning, Artificial Intelligence, Language and NLP, and Data Science; connected stages and pulsing nodes." />
+  <sub>Four rotating concept modes · flowing signal paths · four stages and twelve nodes · conceptual illustration.</sub>
 </div>
 
-The connected-node flow is an **SVG concept illustration**, not a deployed AI model. Expand any subject below to see its stages. GitHub READMEs do not support custom JavaScript tabs.
+The connected-node animation illustrates four research workflows. Expand a subject to explore its stages.
 
 <details>
 <summary><b>01 · Machine Learning — Input → Features → Model → Insight</b></summary>
@@ -64,13 +64,7 @@ Text understanding, multilingual NLP, information retrieval, transformers and RA
 </details>
 
 <details>
-<summary><b>04 · Big Data — Ingest → Store → Process → Insight</b></summary>
-
-Data engineering at scale: structured/unstructured sources, distributed storage, batch/stream processing, quality checks, and analysis. The five-mode animated concept map above includes this Big Data flow.
-</details>
-
-<details>
-<summary><b>05 · Data Science — Collect → Clean → Analyse → Impact</b></summary>
+<summary><b>04 · Data Science — Collect → Clean → Analyse → Impact</b></summary>
 
 <img src="assets/model-ds.png" width="100%" alt="Data science individual four-stage research diagram" />
 
@@ -88,15 +82,15 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 ---
 
 <!-- ================ ABOUT / EDUCATION / RESEARCH: EDITABLE ================ -->
-## 02 / About Me · Education · Research Background
+## 02 / About Me · Education · Research & Industry
 
 <img src="assets/strengths-animation.svg" width="100%" alt="Animated strengths: creativity, research, continuous learning, experimentation and impact"/>
 
 <table><tr><td width="33%" valign="top">
 <h3>About Me</h3>
-<p>I'm <b>Emon Hossain</b>, a <b>Computer Science &amp; Engineering (CSE) student</b>. My interests and academic work focus primarily on <b>Artificial Intelligence, Machine Learning, Natural Language Processing and Data Science</b>.</p>
-<p>I focus on research questions, datasets, experiments and practical evaluation. Projects such as FixBari and Local Services are practical work, not a statement of software development as my personal research interest or career direction.</p>
-<p><sub>Creativity · Research-oriented · Continuous learner · Impact-driven</sub></p>
+<p>I'm <b>Emon Hossain</b>, a <b>Computer Science &amp; Engineering (CSE) student at ULAB</b>. My work brings together analytical thinking, experimentation, and practical project development.</p>
+<p>I'm interested in research-informed, industry-relevant applications: identifying real problems, testing ideas, and measuring how well solutions work.</p>
+<p><sub>Curiosity · Applied research · Industry relevance · Continuous learning</sub></p>
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Strength</a></p>
 </td><td width="34%" valign="top">
 <h3>Education</h3>
@@ -104,34 +98,35 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <p><b>B.Sc. in Computer Science &amp; Engineering</b><br/>University of Liberal Arts Bangladesh (ULAB)<br/>Dhaka, Bangladesh · <b>In progress</b></p>
 <p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Update · ＋ Add Education</a></p>
 </td><td width="33%" valign="top">
-<h3>Research Background</h3>
-<p>My focus is evaluating computational ideas with usable datasets, clear baselines and reproducible methods. I am particularly interested in reliable results, language and information retrieval, and practical data-driven systems.</p>
-<p><sub>Research approach: Question → Dataset → Baseline → Evaluation → Error analysis → Reporting</sub></p>
+<h3>Research &amp; Industry-Oriented Work</h3>
+<p><b>Research:</b> I investigate problems using datasets, baselines, experiments, and reproducible evaluation.</p>
+<p><b>Applied projects:</b> My portfolio explores service platforms, learning tools, and data-supported workflows with attention to user needs, usability, and measurable outcomes. This is project-based work, not a claim of professional industry employment.</p>
+<p><sub>Approach: Define problem → Analyse evidence → Prototype → Evaluate → Improve</sub></p>
 <p><a href="#06--research--publications">Research and publications ↗</a></p>
 </td></tr></table>
 
 ---
 
 <!-- ================ INTERESTS & CURRENT FOCUS ================ -->
-## 03 / Interests · Research Directions
+## 03 / Interests · Research & Industry Applications
 
-<code>Artificial Intelligence</code> · <code>Machine Learning</code> · <code>Language &amp; NLP</code> · <code>Data Science</code> · <code>Big Data</code> · <code>Deep Learning</code> · <code>Information Retrieval</code> · <code>Applied Research</code> · <code>Responsible AI</code> · <code>Sustainability</code>
+<code>Applied Intelligence</code> · <code>Industry R&amp;D</code> · <code>Information Retrieval</code> · <code>Decision Support</code> · <code>Deep Learning</code> · <code>Responsible Technology</code>
 
 <table><tr><td width="50%" valign="top">
-<h3>Current focus</h3>
+<h3>Research priorities</h3>
 <ul>
-<li>Machine Learning training, testing and evaluation</li>
-<li>Natural Language Processing, retrieval and RAG</li>
-<li>Data analysis, cleaning and visualization</li>
-<li>Publicly available datasets and research experiments</li>
+<li>Meaningful problem formulation and strong baselines</li>
+<li>Model evaluation, robustness and explainable results</li>
+<li>Language understanding, retrieval and recommendation methods</li>
+<li>Reproducible experiments and evidence-based conclusions</li>
 </ul>
 </td><td width="50%" valign="top">
-<h3>Research interests</h3>
+<h3>Industry applications</h3>
 <ul>
-<li>Multilingual and low-resource language technology</li>
-<li>Intelligent systems and explainable results</li>
-<li>Ethical AI and reproducible methods</li>
-<li>AI applications for environmental and sustainability data</li>
+<li>Turning research prototypes into useful workflows</li>
+<li>Data-driven decision support and process improvement</li>
+<li>Search, recommendation and intelligent assistance</li>
+<li>Usability, reliability and measurable practical impact</li>
 </ul>
 </td></tr></table>
 
@@ -139,36 +134,32 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 
 ---
 
-<!-- ================ SKILLS & VERIFIED SELF-DESCRIBED TOOLS ================ -->
-## 04 / Technical Skills · Tools
+<!-- ================ SKILLS & RESEARCH TOOLKIT ================ -->
+## 04 / Technical Skills · Research Toolkit
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,git,github&theme=dark" alt="HTML5 CSS3 JavaScript TypeScript Python MySQL Git and GitHub logos" />
-</div>
-<div align="center">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" alt="Atlassian"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,git,github&theme=dark" alt="Research-oriented toolkit: Python, PyTorch, TensorFlow, Anaconda, MySQL, Git and GitHub" />
 </div>
 
-| Skills you identified | Research-related work |
+| Core focus | Tools and working methods |
 | --- | --- |
-| HTML5 · CSS3 · JavaScript · TypeScript | AI / ML · NLP · Data Science |
-| Python · MySQL | Data handling · Model evaluation |
-| Git · GitHub | Version control · Experiments |
-| Jira · Atlassian | Project tracking and collaboration |
-| Markdown · SVG | Technical documentation and animated GitHub profile cards |
-| GitHub Actions | Familiarity with workflows present in project repositories |
+| **Programming & data analysis** | Python · Jupyter Notebook · Google Colab · NumPy · pandas |
+| **Machine learning** | scikit-learn · PyTorch · TensorFlow · model training and validation |
+| **Language & retrieval** | Hugging Face Transformers · NLTK · spaCy · embeddings · retrieval / RAG |
+| **Data science & visualization** | SQL · MySQL · Matplotlib · Seaborn · exploratory analysis |
+| **Research workflow** | Experimental design · feature engineering · performance metrics · error analysis |
+| **Project collaboration** | Git · GitHub · documentation · testing · iterative prototyping |
 
-**Research practices:** dataset cleaning, exploratory analysis, baseline comparison, evaluation metrics, error analysis and reproducible reporting. These describe areas of practice, not a claim of expert proficiency in every tool.
+**Areas of expertise:** computational problem-solving, intelligent modeling, language-focused analysis, and evidence-driven evaluation. The toolkit lists relevant frameworks and working methods; individual proficiency can be updated as projects are documented.
 
-<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Add Skill · ↕ Reorder</a>
+<a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Update Tools</a>
 
 ---
 
 <!-- ================ PROJECTS: ALL CONNECTED REPOSITORIES, ANIMATED ================ -->
 ## 05 / Featured Repositories · Projects
 
-**Deployment link audit (1 November 2026):** The website URLs below are published links recorded in project documentation; independent HTTP reachability could not be confirmed from this environment. A project without a confirmed deployment URL links to source only. Emon’s MS Journey has no website link by request.\n\nThe connected GitHub account currently shows **15 accessible repositories: 12 public and 3 private** (checked 1 November 2026). Fourteen are featured below; the additional public `local-services` repository remains accessible from [All Repositories](https://github.com/EMON-721?tab=repositories). Repository visibility can change; this is a dated snapshot, not a live counter.
+**15 selected repository projects are featured below (12 public, 3 private).** This is a curated project showcase, not a live account-wide repository count. Published website links are included where known; availability may vary. Emon's MS Journey has no website link, as requested.
 
 <details>
 <summary><b>Compact project directory · easy to navigate on mobile</b></summary>
@@ -187,6 +178,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 - [Emon's MS Journey](https://github.com/EMON-721/Emon-s-MS-Journey) *(private source)*
 - [GitHub Research Profile](https://github.com/EMON-721/EMON-721)
 - [Service Lagbe](https://github.com/EMON-721/Service-Lagbe)
+- [Local Services](https://github.com/EMON-721/local-services)
 
 </details>
 
@@ -198,7 +190,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/Goli-Coach"><img src="assets/repos/goli-coach.svg" width="100%" alt="Animated project cover: GoliCoach AI"/></a><p><b><a href="https://github.com/EMON-721/Goli-Coach">GoliCoach AI</a></b> · <sub>Public</sub></p><p>AI-assisted cricket practice and pose-analysis feedback.</p><p><a href="https://github.com/EMON-721/Goli-Coach">⌘ Source repository</a></p></td><td width="50%" valign="top"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project cover: The Passport Band"/><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning resources.</p><p><sub>Source code restricted</sub> · <a href="https://emon-ielts-studio.emonhossain5081.chatgpt.site">🌐 Visit Website</a> <sub>(Published URL · access may be restricted)</sub></p></td></tr>
 <tr><td width="50%" valign="top"><img src="assets/repos/italy-journey-portal.svg" width="100%" alt="Animated project cover: Italy Journey"/><p><b>Italy Journey</b> · <sub>Private</sub></p><p>Italy admissions research and planning tools.</p><p><sub>Source code restricted</sub></p></td><td width="50%" valign="top"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project cover: Emon's MS Journey"/><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Personal master's application milestones and research planning.</p><p><sub>Source code restricted</sub></p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/EMON-721"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project cover: GitHub Research Profile"/></a><p><b><a href="https://github.com/EMON-721/EMON-721">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>GitHub overview, research concept maps and animated project cards.</p><p><a href="https://github.com/EMON-721/EMON-721">⌘ Source repository</a> · <a href="https://github.com/EMON-721">🌐 View Profile</a> <sub>(Public profile)</sub></p></td><td width="50%" valign="top"><a href="https://github.com/EMON-721/Service-Lagbe"><img src="assets/repos/service-lagbe.svg" width="100%" alt="Animated project cover: Service Lagbe"/></a><p><b><a href="https://github.com/EMON-721/Service-Lagbe">Service Lagbe</a></b> · <sub>Public</sub></p><p>Home-service discovery and booking workflows.</p><p><a href="https://github.com/EMON-721/Service-Lagbe">⌘ Source repository</a></p></td></tr>
-<tr><td width="50%" valign="top"><p><b>＋ Add New Project</b></p><p>More projects can be added without replacing existing cards.</p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Owner: Add / Edit / Reorder</a></p></td><td width="50%" valign="top"></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/EMON-721/local-services"><img src="assets/repos/local-service.svg" width="100%" alt="Animated project cover: Local Services"/></a><p><b><a href="https://github.com/EMON-721/local-services">Local Services</a></b> · <sub>Public</sub></p><p>Service discovery and local booking project concept.</p><p><a href="https://github.com/EMON-721/local-services">⌘ Source repository</a></p></td><td width="50%" valign="top"><p><b>＋ Add New Project</b></p><p>Future verified projects can be added without replacing existing cards.</p><p><a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">Owner: Add / Edit / Reorder</a></p></td></tr>
 </table>
 
 <details>
@@ -212,16 +204,16 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 
 </details>
 
-<sub>All 13 previous project covers and links remain; Key Derby adds a fourteenth. Private repository code is not embedded or exposed. No unverified stars, forks or publication figures are shown.</sub>
+<sub>All 15 selected repository projects retain their source references. Private repository code is not embedded or exposed; no unverified project metrics are shown.</sub>
 
 ---
 
 <!-- ================ PUBLICATIONS: KEEP ONLY VERIFIED SOURCES ================ -->
 ## 06 / Research & publications
 
-**Research directions:** Artificial Intelligence · Machine Learning · Language & NLP · Data Science · Big Data · Intelligent Systems · Sustainability.
+**Research directions:** reliable intelligent systems, information retrieval, practical modeling, and decision support.
 
-**Research practice:** begin with a clear question, document data provenance, establish a baseline, select appropriate evaluation metrics, inspect limitations and report reproducible findings.
+**Research practice:** define a clear question, document data provenance, compare strong baselines, evaluate performance, investigate limitations and report reproducible findings.
 
 **Publications:** a bibliography is intentionally not displayed at this stage. No unverified publication counts or results are claimed.
 
@@ -233,7 +225,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <!-- ================ GITHUB STATISTICS, CONTRIBUTIONS AND LANGUAGES ================ -->
 ## 07 / GitHub Statistics · Contribution Activity · Most Used Languages
 
-<img src="assets/github-snapshot.svg" width="100%" alt="Animated GitHub repository summary showing accessible repository count and sections for contribution activity and languages"/>
+<img src="assets/github-snapshot.svg" width="100%" alt="Animated summary of 15 featured projects with links to GitHub contribution activity and repository languages"/>
 
 <table><tr>
 <td width="33%" valign="top"><b>GitHub Statistics</b><p><a href="https://github.com/EMON-721?tab=repositories">Verified repository directory</a></p></td>
@@ -245,7 +237,7 @@ Statistical inquiry, feature analysis, useful visualizations and reproducible ev
 <img src="https://img.shields.io/github/followers/EMON-721?style=flat-square&label=GitHub%20Followers" alt="Live follower badge"/>
 </div>
 
-<sub>Repository counts above are a snapshot from 1 November 2026. GitHub's native activity calendar displays actual contributions; languages differ by repository and are not fabricated into a single percentage chart. Public repositories and visibility may change.</sub>
+<sub>The 15-project showcase count is curated; GitHub's native profile shows current activity and the full repository directory. Languages vary across repositories.</sub>
 
 ### GitHub Achievement Goals · Free
 
@@ -268,7 +260,7 @@ The following are **achievement goals**, not a claim that these badges have been
 > **Building Intelligent Solutions for a Better Tomorrow.**  
 > — **Emon Hossain**
 
-I'm interested in collaborative research discussions, AI/ML experiments, NLP and language models, Data Science and practical learning.
+I'm open to collaborations in applied research, industry-led innovation, intelligent products and data-informed problem solving.
 
 <div align="center">
 <a href="https://github.com/EMON-721"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
@@ -293,7 +285,7 @@ LinkedIn · WhatsApp · Email · X — placeholders retained for future verified
 <li>Add a research paper, certification, experience, another interest or project by copying the relevant section/card.</li>
 <li>To add a project animation, create a new SVG under <code>assets/repos/</code> and add a project table entry.</li>
 <li>Move a section to reorder or remove only that section to delete.</li>
-<li>Keep the existing <code>assets/research-concept-map.svg</code> so the animated AI/ML/NLP/Big Data/Data Science flow remains unchanged.</li>
+<li>Keep the existing <code>assets/research-concept-map.svg</code> four-mode animation and its linked stages when editing research content.</li>
 <li>Use <a href="https://github.com/settings/profile">native GitHub Settings → Profile</a> for the actual GitHub account photo, Name, Bio, location or native social fields. These settings cannot be changed by editing the README.</li>
 </ul>
 <p>GitHub profile READMEs support animated SVG and expandable sections but do not run custom JavaScript tabs, CMS edit pop-ups or draggable cards.</p>
