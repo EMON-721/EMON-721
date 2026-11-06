@@ -7,12 +7,9 @@
 -->
 
 <!-- ================ HERO: REAL PORTRAIT, ANIMATED DESIGN ================ -->
-<table>
-<tr>
-<td width="72%" valign="top"><a href="https://github.com/emonhossain24/emonhossain-24/edit/main/README.md"><img src="assets/hero-emon-hossain-journey-animated.gif" width="100%" alt="Animated Emon Hossain banner: B.Sc. in CSE at ULAB, Learn Research Build Apply, laptop, books, and a golden route toward the summit"/></a></td>
-<td width="28%" valign="middle" align="center"><img src="assets/emon-portrait-clear-2026.jpg" width="190" alt="Clear high-resolution real portrait of Emon Hossain wearing a black blazer and white shirt"/><p><b>Emon Hossain</b><br/><sub>CSE Student · Dhaka, Bangladesh</sub></p></td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/emonhossain24/emonhossain24/edit/main/README.md"><img src="assets/hero-emon-hossain-fullwidth-hd.gif" alt="Animated full-width Emon Hossain HD hero: B.Sc. in CSE at ULAB, Learn Research Build Apply, laptop and books with glowing path to summit" width="100%" /></a>
+</div>
 
 <div align="center">
 
