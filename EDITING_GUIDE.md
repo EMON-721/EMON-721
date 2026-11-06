@@ -5,10 +5,10 @@ Updated 25 October 2026.
 
 ### Current profile structure
 1. Hero: animated AI research background, new user-supplied portrait and corrected **CSE student** bio.
-2. Research: preserved animated AI, Machine Learning, Language & NLP, Big Data and Data Science concept map.
-3. About: creativity, research, continuous learning and impact; practical software projects are not presented as a personal software-development interest.
+2. Research: preserved four-mode animated AI, Machine Learning, Language & NLP, and Data Science concept map.
+3. About: research and industry-oriented applications, creative problem solving and continuous learning.
 4. Education: ULAB-themed academic identifier, B.Sc. in CSE (in progress), Dhaka.
-5. Research background: AI/ML, NLP, RAG, datasets, model evaluation and sustainability.
+5. Research and industry applications: datasets, modeling, evaluation, retrieval, decision support and applied prototyping.
 6. Interests: research themes and current focus.
 7. Skills: HTML, CSS, JavaScript, TypeScript, Python, MySQL, Git, GitHub, Jira and Atlassian.
 8. Repositories: seven connected repositories in total. Six previous animated repository cards are preserved; Vocab Station is added using its own original repository logo and the already-existing animated process strip. Two are public; five are private.
@@ -115,3 +115,12 @@ No unverified publication counts, fabricated stars, follower figures, private se
 ## GitHub achievement badges
 
 GitHub awards official Achievements automatically after qualifying GitHub actions. A README can document achievement goals but cannot award badges or change the native Achievements panel. Use normal pull requests for reviewed and traceable documentation changes, and confirm awarded badges on the GitHub profile separately.
+
+## Profile refresh — 6 November 2026
+
+- Profile summary now foregrounds CSE at ULAB, research work, practical applications and industry-oriented interests without claiming prior industry employment.
+- Removed unnecessary defensive wording about software-development interests and reduced repeated AI/ML/NLP/Data Science labels in the public README.
+- The concept-map SVG now cycles through **four** modes: Machine Learning, Artificial Intelligence, Language & NLP, and Data Science. Big Data was removed from both its label and animated content; four-stage, twelve-node network animation was preserved.
+- Reorganized technical tools into analysis/programming, ML, NLP/retrieval, data visualization and research workflow categories. The listed tools are a toolkit rather than independent certification or audited expertise.
+- Public project gallery now includes **15 selected repositories**, adding the existing `local-services` cover; the 16th account repository (`achievement-practice`) is intentionally excluded from the showcase. Repository statistics are labeled as a curated count, not an account-wide live counter.
+- Existing hero image, portrait, project covers, known website links and remaining animations remain untouched. The private Emon's MS Journey website link remains omitted.
