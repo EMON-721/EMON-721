@@ -20,7 +20,7 @@
 
 Exploring ideas through rigorous research and turning evidence into practical, industry-relevant solutions.
 
-[**Featured Projects**](#05--featured-repositories--projects) · [**Research Flow**](#01--research--animated-concept-map) · [**About & Education**](#02--about-me--education--research--industry) · [**Skills**](#04--technical-skills--tools) · [**Research Notes**](#06--research--publications) · [**Connect**](#08--connect-with-me--open-to-collaboration)
+[**Featured Projects**](#05--featured-repositories--projects) · [**Research Flow**](#01--research--animated-concept-map) · [**About & Education**](#02--about-me--education--research--industry) · [**Tools**](#04--industry--research-toolkit) · [**Research Notes**](#06--research--publications) · [**Connect**](#08--connect-with-me--open-to-collaboration)
 
 </div>
 
@@ -103,22 +103,44 @@ The animated map presents four connected workflows, from initial evidence to use
 ---
 
 <!-- ================ SKILLS & RESEARCH TOOLKIT ================ -->
-## 04 / Technical Skills · Research Toolkit
+## 04 / Industry & Research Toolkit
+
+Programming environments, analytical methods, project platforms and research resources relevant to my CSE coursework and applied work.
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,git,github&theme=dark" alt="Research-oriented toolkit: Python, PyTorch, TensorFlow, Anaconda, MySQL, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,vscode,html,css,mysql,git,github&amp;theme=dark&amp;perline=9" alt="Python, C++, Java, VS Code, HTML, CSS, MySQL, Git and GitHub colorful icons" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,anaconda,cloudflare,vercel&amp;theme=dark&amp;perline=6" alt="Scikit-learn, PyTorch, TensorFlow, Anaconda, Cloudflare and Vercel colorful icons" />
 </div>
 
-| Core focus | Tools and working methods |
-| --- | --- |
-| **Programming & data analysis** | Python · Jupyter Notebook · Google Colab · NumPy · pandas |
-| **Modeling** | scikit-learn · PyTorch · TensorFlow · model training and validation |
-| **Language & retrieval** | Hugging Face Transformers · NLTK · spaCy · embeddings · retrieval / RAG |
-| **Data visualization** | SQL · MySQL · Matplotlib · Seaborn · exploratory analysis |
-| **Research workflow** | Experimental design · feature engineering · performance metrics · error analysis |
-| **Project collaboration** | Git · GitHub · documentation · testing · iterative prototyping |
+<p align="center">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&amp;logo=xampp&amp;logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Code%3A%3ABlocks-245E8C?style=for-the-badge" alt="Code::Blocks" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark and PySpark" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white" alt="Google Colab" />
+</p>
 
-**Areas of expertise:** computational problem-solving, intelligent modeling, language-focused analysis, and evidence-driven evaluation. The toolkit lists relevant frameworks and working methods; individual proficiency can be updated as projects are documented.
+<p align="center">
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar literature search" /></a>
+  <a href="https://ieeexplore.ieee.org/"><img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&amp;logo=ieee&amp;logoColor=white" alt="IEEE Xplore literature database" /></a>
+  <a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv research preprints" /></a>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Atlassian Jira" />
+</p>
+
+| Coursework / practical area | Tools, platforms and methods |
+| --- | --- |
+| **Programming, OOP & algorithms** | C / C++ · Java · Code::Blocks · VS Code |
+| **Data and predictive analysis** | Python · PySpark · Jupyter Notebook · Google Colab · NumPy · pandas |
+| **Databases and local environments** | SQL · MySQL · XAMPP |
+| **Modeling and retrieval** | scikit-learn · PyTorch · TensorFlow · Hugging Face Transformers · embeddings / RAG |
+| **Visualization and evaluation** | Matplotlib · Seaborn · exploratory analysis · performance metrics |
+| **Industry projects and collaboration** | Git · GitHub · Atlassian Jira · Cloudflare Workers · Vercel |
+| **Research literature and publishing resources** | [Google Scholar](https://scholar.google.com/) · [IEEE Xplore](https://ieeexplore.ieee.org/) · [arXiv](https://arxiv.org/) |
+| **Documentation and reporting** | Microsoft Word · Excel · Markdown |
+
+<sub>Curated from my CSE coursework, documented CV tools, project environments and relevant research resources. The list describes a toolkit and study/work contexts, not expert-level certification in every product or professional affiliation with research publishers.</sub>
 
 <a href="https://github.com/EMON-721/EMON-721/edit/main/README.md">✎ Edit · ＋ Update Tools</a>
 
