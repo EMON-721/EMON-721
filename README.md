@@ -133,6 +133,18 @@ Programming environments, analytical methods, project platforms and research res
 </p>
 
 <p align="center">
+  <b>Project Methods &amp; System Design</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-147EFB?style=for-the-badge" alt="Agile project planning" />
+  <img src="https://img.shields.io/badge/Scrum-35495E?style=for-the-badge" alt="Scrum workflow" />
+  <img src="https://img.shields.io/badge/Kanban-2071C5?style=for-the-badge" alt="Kanban work tracking" />
+  <img src="https://img.shields.io/badge/Scrumban-535E75?style=for-the-badge" alt="Scrumban workflow" />
+  <img src="https://img.shields.io/badge/Microservices-315C70?style=for-the-badge" alt="Microservices architecture" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-7956A8?style=for-the-badge" alt="Software design patterns" />
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar literature search" /></a>
   <a href="https://ieeexplore.ieee.org/"><img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&amp;logo=ieee&amp;logoColor=white" alt="IEEE Xplore literature database" /></a>
   <a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv research preprints" /></a>
@@ -145,8 +157,12 @@ Programming environments, analytical methods, project platforms and research res
 | **Data and predictive analysis** | Python · PySpark · Jupyter Notebook · Google Colab · NumPy · pandas |
 | **Databases and local environments** | SQL · MySQL · XAMPP · Supabase (PostgreSQL) · Neon (serverless PostgreSQL) |
 | **Modeling and retrieval** | scikit-learn · PyTorch · TensorFlow · Hugging Face Transformers · embeddings / RAG |
-| **Visualization and evaluation** | Matplotlib · Seaborn · exploratory analysis · performance metrics |
+| **Visualization and evaluation** | Matplotlib · Seaborn · SVG graphics · exploratory analysis · performance metrics |
 | **Industry projects and collaboration** | Git · GitHub · Atlassian Jira · Cloudflare Workers · Vercel |
+| **Project management methods** | Agile · Scrum · Kanban · Scrumban · Iterative & Incremental development · SDLC |
+| **Architecture & system design** | Layered / modular architecture · MVC · service-oriented design · microservices · event-driven architecture · API gateway |
+| **Design patterns** | Singleton · Factory · Strategy · Observer / Pub-Sub · Repository · Adapter · dependency injection |
+| **Testing & delivery workflows** | Unit & integration testing · API testing · E2E / UAT workflows · CI/CD · Docker · GitHub Actions |
 | **Deployment & cloud hosting** | **Deployed:** Vercel · Netlify · Cloudflare Workers. **Other platforms used:** Render · Railway. |
 | **Database & backend services** | Supabase · Neon · PostgreSQL · database configuration and integrations |
 | **Release and infrastructure tools** | Docker · GitHub Actions · deployment configuration · environment variables |
