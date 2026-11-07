@@ -17,7 +17,7 @@
 
 Exploring ideas through rigorous research and turning evidence into practical, industry-relevant solutions.
 
-[**Featured Projects**](#05--featured-repositories--projects) · [**Research Flow**](#01--research--animated-concept-map) · [**About & Education**](#02--about-me--education--research--industry) · [**Tools**](#04--industry--research-toolkit) · [**Research Notes**](#06--research--publications) · [**Connect**](#08--connect-with-me--open-to-collaboration)
+[**Featured Projects**](#05--featured-repositories--projects) · [**Research Flow**](#01--research) · [**About & Education**](#02--about-me--education--research--industry) · [**Tools**](#04--industry--research-toolkit) · [**Research Notes**](#06--research--publications) · [**Connect**](#08--connect-with-me--open-to-collaboration)
 
 </div>
 
@@ -27,7 +27,7 @@ Exploring ideas through rigorous research and turning evidence into practical, i
 ---
 
 <!-- ================ RESEARCH CONCEPT MAP: EDIT assets/research-concept-map.svg ================ -->
-## 01 / Research · Animated concept map
+## 01 / Research
 
 <div align="center">
   <img src="assets/research-concept-map.svg" width="100%" alt="Animated concept map of four analytical workflows with connected stages and pulsing nodes." />
