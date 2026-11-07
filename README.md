@@ -146,7 +146,7 @@ Programming environments, analytical methods, project platforms and research res
 <!-- ================ PROJECTS: ALL CONNECTED REPOSITORIES, ANIMATED ================ -->
 ## 05 / Featured Repositories · Projects
 
-**Featured projects — 16 repositories (13 public, 3 private).** Website links are included for projects with published sites. Emon's MS Journey has no website link, as requested.
+**Featured projects — 13 repositories (12 public, 1 private).** Website links are included for projects with published sites.
 
 <details>
 <summary><b>Compact project directory · easy to navigate on mobile</b></summary>
@@ -162,9 +162,6 @@ Programming environments, analytical methods, project platforms and research res
 - [Higher Education in Bangladesh](https://github.com/emonhossain24/HIGHER-EDUCATION-IN-BANGLADESH)
 - [FixBari](https://github.com/emonhossain24/FixBari)
 - [The Passport Band](https://github.com/emonhossain24/The-Passport-Band) *(private source)*
-- [Italy Journey](https://github.com/emonhossain24/italy-journey-portal) *(private source)*
-- [Emon's MS Journey](https://github.com/emonhossain24/Emon-s-MS-Journey) *(private source)*
-- [GitHub Research Profile](https://github.com/emonhossain24/emonhossain24)
 - [Service Lagbe](https://github.com/emonhossain24/Service-Lagbe)
 - [Local Services](https://github.com/emonhossain24/local-services)
 
@@ -176,9 +173,8 @@ Programming environments, analytical methods, project platforms and research res
 <tr><td width="50%" valign="top"><a href="https://github.com/emonhossain24/Speak-Station"><img src="assets/repos/speaking-station-v2.svg" width="100%" alt="Animated project cover: Speaking Station"/></a><p><b><a href="https://github.com/emonhossain24/Speak-Station">Speaking Station</a></b> · <sub>Public</sub></p><p>IELTS speaking questions, recording practice and feedback.</p><p><a href="https://github.com/emonhossain24/Speak-Station">⌘ Source repository</a> · <a href="https://speak-station.emon721.workers.dev">🌐 Visit Website</a></p></td><td width="50%" valign="top"><a href="https://github.com/emonhossain24/Mouchak-AI-platform"><img src="assets/repos/mouchak-ai.svg" width="100%" alt="Animated project cover: Mouchak AI"/></a><p><b><a href="https://github.com/emonhossain24/Mouchak-AI-platform">Mouchak AI</a></b> · <sub>Public</sub></p><p>Bangla–English tool platform with specialized workspaces.</p><p><a href="https://github.com/emonhossain24/Mouchak-AI-platform">⌘ Source repository</a></p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/emonhossain24/vocab-station"><img src="assets/repos/vocab-station.svg" width="100%" alt="Animated project cover: Vocab Station"/></a><p><b><a href="https://github.com/emonhossain24/vocab-station">Vocab Station</a></b> · <sub>Public</sub></p><p>Vocabulary practice, mock tests, revision and progress tracking.</p><p><a href="https://github.com/emonhossain24/vocab-station">⌘ Source repository</a> · <a href="https://vocab-station.emon721.workers.dev">🌐 Visit Website</a></p></td><td width="50%" valign="top"><a href="https://github.com/emonhossain24/Goli-Coach"><img src="assets/repos/goli-coach.svg" width="100%" alt="Animated project cover: GoliCoach AI"/></a><p><b><a href="https://github.com/emonhossain24/Goli-Coach">GoliCoach AI</a></b> · <sub>Public</sub></p><p>Cricket practice with pose-analysis feedback.</p><p><a href="https://github.com/emonhossain24/Goli-Coach">⌘ Source repository</a></p></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/emonhossain24/HIGHER-EDUCATION-IN-BANGLADESH"><img src="assets/repos/higher-education-bangladesh.svg" width="100%" alt="Animated project cover: Higher Education in Bangladesh"/></a><p><b><a href="https://github.com/emonhossain24/HIGHER-EDUCATION-IN-BANGLADESH">Higher Education in Bangladesh</a></b> · <sub>Public</sub></p><p>Institution discovery, comparison and source-aware higher-education directory for Bangladesh.</p><p><a href="https://github.com/emonhossain24/HIGHER-EDUCATION-IN-BANGLADESH">⌘ Source repository</a></p></td><td width="50%" valign="top"><a href="https://github.com/emonhossain24/FixBari"><img src="assets/repos/fixbari.svg" width="100%" alt="Animated project cover: FixBari"/></a><p><b><a href="https://github.com/emonhossain24/FixBari">FixBari</a></b> · <sub>Public</sub></p><p>On-demand services, bookings and local service-provider workflows.</p><p><a href="https://github.com/emonhossain24/FixBari">⌘ Source repository</a> · <a href="https://fix-bari.vercel.app">🌐 Visit Website</a></p></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project cover: The Passport Band"/><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning resources.</p><p><sub>Source code restricted</sub> · <a href="https://emon-ielts-studio.emonhossain5081.chatgpt.site">🌐 Visit Website</a></p></td><td width="50%" valign="top"><img src="assets/repos/italy-journey-portal.svg" width="100%" alt="Animated project cover: Italy Journey"/><p><b>Italy Journey</b> · <sub>Private</sub></p><p>Italy admissions research and planning tools.</p><p><sub>Source code restricted</sub></p></td></tr>
-<tr><td width="50%" valign="top"><img src="assets/repos/Emon-s-MS-Journey.svg" width="100%" alt="Animated project cover: Emon's MS Journey"/><p><b>Emon's MS Journey</b> · <sub>Private</sub></p><p>Personal master's application milestones and research planning.</p><p><sub>Source code restricted</sub></p></td><td width="50%" valign="top"><a href="https://github.com/emonhossain24/emonhossain24"><img src="assets/repos/EMON-721.svg" width="100%" alt="Animated project cover: GitHub Research Profile"/></a><p><b><a href="https://github.com/emonhossain24/emonhossain24">GitHub Research Profile</a></b> · <sub>Public</sub></p><p>GitHub overview, research concept maps and animated project cards.</p><p><a href="https://github.com/emonhossain24/emonhossain24">⌘ Source repository</a> · <a href="https://github.com/emonhossain24">🌐 View Profile</a> <sub>(Public profile)</sub></p></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/emonhossain24/Service-Lagbe"><img src="assets/repos/service-lagbe.svg" width="100%" alt="Animated project cover: Service Lagbe"/></a><p><b><a href="https://github.com/emonhossain24/Service-Lagbe">Service Lagbe</a></b> · <sub>Public</sub></p><p>Home-service discovery and booking workflows.</p><p><a href="https://github.com/emonhossain24/Service-Lagbe">⌘ Source repository</a></p></td><td width="50%" valign="top"><a href="https://github.com/emonhossain24/local-services"><img src="assets/repos/local-service.svg" width="100%" alt="Animated project cover: Local Services"/></a><p><b><a href="https://github.com/emonhossain24/local-services">Local Services</a></b> · <sub>Public</sub></p><p>Service discovery and local booking project concept.</p><p><a href="https://github.com/emonhossain24/local-services">⌘ Source repository</a></p></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/repos/The-Passport-Band.svg" width="100%" alt="Animated project cover: The Passport Band"/><p><b>The Passport Band</b> · <sub>Private</sub></p><p>IELTS Academic practice, vocabulary and learning resources.</p><p><sub>Source code restricted</sub> · <a href="https://emon-ielts-studio.emonhossain5081.chatgpt.site">🌐 Visit Website</a></p></td><td width="50%" valign="top"><a href="https://github.com/emonhossain24/Service-Lagbe"><img src="assets/repos/service-lagbe.svg" width="100%" alt="Animated project cover: Service Lagbe"/></a><p><b><a href="https://github.com/emonhossain24/Service-Lagbe">Service Lagbe</a></b> · <sub>Public</sub></p><p>Home-service discovery and booking workflows.</p><p><a href="https://github.com/emonhossain24/Service-Lagbe">⌘ Source repository</a></p></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/emonhossain24/local-services"><img src="assets/repos/local-service.svg" width="100%" alt="Animated project cover: Local Services"/></a><p><b><a href="https://github.com/emonhossain24/local-services">Local Services</a></b> · <sub>Public</sub></p><p>Service discovery and local booking project concept.</p><p><a href="https://github.com/emonhossain24/local-services">⌘ Source repository</a></p></td><td width="50%" valign="top"></td></tr>
 </table>
 
 <details>
@@ -192,7 +188,7 @@ Programming environments, analytical methods, project platforms and research res
 
 </details>
 
-<sub>All 16 selected repository projects retain their source references. Private repository code is not embedded or exposed; no unverified project metrics are shown.</sub>
+<sub>All 13 featured projects retain their source references. Private repository code is not embedded or exposed; no unverified project metrics are shown.</sub>
 
 ---
 
@@ -213,7 +209,7 @@ Programming environments, analytical methods, project platforms and research res
 <!-- ================ GITHUB STATISTICS, CONTRIBUTIONS AND LANGUAGES ================ -->
 ## 07 / GitHub Statistics · Contribution Activity · Most Used Languages
 
-<img src="assets/github-snapshot.svg" width="100%" alt="Animated summary of 16 featured projects with links to GitHub contribution activity and repository languages"/>
+<img src="assets/github-snapshot.svg" width="100%" alt="Animated summary of 13 featured projects with links to GitHub contribution activity and repository languages"/>
 
 <table><tr>
 <td width="33%" valign="top"><b>GitHub Statistics</b><p><a href="https://github.com/emonhossain24?tab=repositories">Verified repository directory</a></p></td>
