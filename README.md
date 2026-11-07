@@ -8,7 +8,7 @@
 
 <!-- ================ HERO: REAL PORTRAIT, ANIMATED DESIGN ================ -->
 <div align="center">
-<a href="https://github.com/emonhossain24/emonhossain24/edit/main/README.md"><img src="assets/hero-emon-hossain-fullwidth-hd.gif" alt="Animated full-width Emon Hossain HD hero: B.Sc. in CSE at ULAB, Learn Research Build Apply, laptop and books with glowing path to summit" width="100%" /></a>
+<a href="https://github.com/emonhossain24/emonhossain24/edit/main/README.md"><img src="assets/hero-emon-hossain-latest.webp" alt="Full-width Emon Hossain hero banner: B.Sc. in CSE at ULAB, Learn, Research, Build, Apply, and mountain summit connected to laptop" width="100%" /></a>
 </div>
 
 <div align="center">
