@@ -178,7 +178,9 @@ Programming environments, analytical methods, project platforms and research res
 <!-- ================ PROJECTS: ALL CONNECTED REPOSITORIES, ANIMATED ================ -->
 ## 05 / Featured Repositories · Projects
 
-**Featured projects — 13 repositories (12 public, 1 private).** Website links are included for projects with published sites.
+**17 Repositories · 13 Featured Projects**
+
+A curated selection of 13 projects from my 17 GitHub repositories, highlighting research, development and practical applications. Website links are included for projects with published sites.
 
 <details>
 <summary><b>Compact project directory · easy to navigate on mobile</b></summary>
