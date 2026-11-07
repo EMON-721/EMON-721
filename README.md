@@ -146,7 +146,7 @@ Programming environments, analytical methods, project platforms and research res
 <!-- ================ PROJECTS: ALL CONNECTED REPOSITORIES, ANIMATED ================ -->
 ## 05 / Featured Repositories · Projects
 
-**16 selected repository projects are featured below (13 public, 3 private).** This is a curated showcase of 16 selected projects, not an account-wide live counter. Published website links are included where known; availability may vary. Emon's MS Journey has no website link, as requested.
+**Featured projects — 16 repositories (13 public, 3 private).** Website links are included for projects with published sites. Emon's MS Journey has no website link, as requested.
 
 <details>
 <summary><b>Compact project directory · easy to navigate on mobile</b></summary>
