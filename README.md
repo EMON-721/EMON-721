@@ -120,6 +120,17 @@ Programming environments, analytical methods, project platforms and research res
 </p>
 
 <p align="center">
+  <b>Cloud Deployment &amp; Hosting</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel deployment" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Netlify deployment" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare Workers deployment" />
+  <img src="https://img.shields.io/badge/Render-263B4A?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render hosting platform" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&amp;logo=railway&amp;logoColor=white" alt="Railway hosting platform" />
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar literature search" /></a>
   <a href="https://ieeexplore.ieee.org/"><img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&amp;logo=ieee&amp;logoColor=white" alt="IEEE Xplore literature database" /></a>
   <a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv research preprints" /></a>
@@ -134,6 +145,8 @@ Programming environments, analytical methods, project platforms and research res
 | **Modeling and retrieval** | scikit-learn · PyTorch · TensorFlow · Hugging Face Transformers · embeddings / RAG |
 | **Visualization and evaluation** | Matplotlib · Seaborn · exploratory analysis · performance metrics |
 | **Industry projects and collaboration** | Git · GitHub · Atlassian Jira · Cloudflare Workers · Vercel |
+| **Deployment & cloud hosting** | **Deployed:** Vercel · Netlify · Cloudflare Workers. **Other platforms used:** Render · Railway. |
+| **Release and infrastructure tools** | Docker · GitHub Actions · deployment configuration · environment variables |
 | **Research literature and publishing resources** | [Google Scholar](https://scholar.google.com/) · [IEEE Xplore](https://ieeexplore.ieee.org/) · [arXiv](https://arxiv.org/) |
 | **Documentation and reporting** | Microsoft Word · Excel · Markdown |
 
