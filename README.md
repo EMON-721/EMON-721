@@ -255,7 +255,7 @@ LinkedIn · WhatsApp · Email · X — placeholders retained for future verified
 
 <a href="https://github.com/emonhossain24/emonhossain-24/edit/main/README.md">⚙ Customize Layout</a> · <a href="https://github.com/emonhossain24/emonhossain-24/edit/main/README.md">✎ Edit All Sections</a> · <a href="https://github.com/settings/profile">Edit Native GitHub Profile</a>
 
-<details><summary><b>Owner controls · Future projects / research / awards / contacts</b></summary>
+<details><summary><b>Editing notes · Future projects / research / awards / contacts</b></summary>
 <ul>
 <li>Use <a href="https://github.com/emonhossain24/emonhossain-24/edit/main/README.md">GitHub's README editor</a> to update any section marked by an HTML comment.</li>
 <li>Add a research paper, certification, experience, another interest or project by copying the relevant section/card.</li>
@@ -264,7 +264,7 @@ LinkedIn · WhatsApp · Email · X — placeholders retained for future verified
 <li>Keep the existing <code>assets/research-concept-map.svg</code> four-mode animation and its linked stages when editing research content.</li>
 <li>Use <a href="https://github.com/settings/profile">native GitHub Settings → Profile</a> for the actual GitHub account photo, Name, Bio, location or native social fields. These settings cannot be changed by editing the README.</li>
 </ul>
-<p>GitHub profile READMEs support animated SVG and expandable sections but do not run custom JavaScript tabs, CMS edit pop-ups or draggable cards.</p>
+<p>GitHub profile READMEs support animated SVG and expandable sections but do not run custom JavaScript tabs, interactive edit pop-ups or draggable cards.</p>
 </details>
 
 <div align="center"><sub>LEARN → RESEARCH → BUILD → EVALUATE → IMPROVE</sub></div>
